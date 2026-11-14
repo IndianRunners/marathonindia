@@ -610,12 +610,13 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K"
+   "50K",
+   "Ultra"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
+  "note": "The Hell Race organiser listing; venue per the race page.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -693,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": "Race listing on PuneRunners"
+  "ctaLabel": ""
  },
  {
   "id": "run-bhopal-run",
@@ -1253,7 +1254,7 @@
   ],
   "url": "https://indiarunning.com/event/assam_rifles_half_marathon_2026_56508",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Innovative Sports and leisure).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -2202,7 +2203,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -6044,6 +6046,192 @@
   "source": "geeksonfeet.com/races",
   "sources": [
    "geeksonfeet.com/races"
+  ]
+ },
+ {
+  "id": "end-adventure-corridor",
+  "name": "Adventure Corridor",
+  "city": "Nagpur",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "15 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/daudle-runclub/events/fd810aa0-5ede-4a80-8f94-79b0805d85f2",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 14 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-6-months-of-corso-club",
+  "name": "6 Months of Corso Club",
+  "city": "Chennai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "15 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/corsoclub/events/6a52129f-52b9-464c-b854-f678ae8c7ff7",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 14 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-weekend-run-10k-5k",
+  "name": "Weekend Run: 10K & 5K",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "15 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/indiranagarrunclub/events/0bc29f53-c3b2-435a-b157-234387ccd629",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 14 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-winter-rave-run",
+  "name": "Winter Rave Run",
+  "city": "Goa",
+  "state": "Goa",
+  "zone": "West",
+  "sport": "run",
+  "dateText": "15 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "Community ride"
+  ],
+  "url": "https://www.endorfin.run/clubs/thepaceprojectgoa/events/b27980cb-a6ba-4bec-8ebb-9b099f8c54d9",
+  "certification": "",
+  "note": "Community ride, not a timed race; details per the event page.",
+  "lastChecked": "Checked 14 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-ssrc-x-gcc-run-cricket-meetup",
+  "name": "SSRC x GCC Run & Cricket Meetup",
+  "city": "Gwalior",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "15 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/subwaysurfers-run/events/d07f4f28-cc6f-4217-b2a2-4f5fdf35bec0",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 14 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-weekend-reset-run",
+  "name": "Weekend Reset Run",
+  "city": "Ghaziabad",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "15 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sogaruns/events/50c40890-18e9-4d77-a0b9-917117950a7b",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 14 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-not-so-usual-run",
+  "name": "Not So Usual Run",
+  "city": "Dehradun",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "15 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/zen-runclub/events/1f97a09f-c686-459f-8bda-529cceaa7f0a",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 14 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "ir-asdnasd_40311",
+  "name": "AGI 10K RUN",
+  "city": "Devanahalli",
+  "state": "Karnataka",
+  "zone": "South",
+  "dateText": "31 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "5K",
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/asdnasd_40311",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "lastChecked": "Checked 14 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-kranti_jyoti_womens_run_2027_59904",
+  "name": "Kranti Jyoti Women's Run 2027",
+  "city": "Sadhu Vasvani Nagar",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "2 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/kranti_jyoti_womens_run_2027_59904",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: SS Multi Sports & Events ).",
+  "lastChecked": "Checked 14 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
   ]
  }
 ]
