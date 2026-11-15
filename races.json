@@ -694,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": "Race listing on PuneRunners"
+  "ctaLabel": ""
  },
  {
   "id": "run-bhopal-run",
@@ -1282,7 +1282,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -1834,7 +1835,8 @@
   "distances": [
    "5K",
    "10K",
-   "21.1K"
+   "21.1K",
+   "3K"
   ],
   "url": "https://indiarunning.com/event/mayfair_purnea_marathon_20_22007",
   "certification": "",
@@ -1983,7 +1985,7 @@
   ],
   "url": "https://indiarunning.com/event/daringbadi_hm_73848",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: SPORTIVE).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -4259,7 +4261,8 @@
   "lastChecked": "Checked 11 Nov 2026 on geeksonfeet.com/races",
   "source": "geeksonfeet.com/races",
   "sources": [
-   "geeksonfeet.com/races"
+   "geeksonfeet.com/races",
+   "endorfin.run"
   ],
   "ctaLabel": "Official race site"
  },
@@ -6559,6 +6562,51 @@
   "source": "endorfin.run",
   "sources": [
    "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-winter-champ-run-delhi-2026",
+  "name": "Winter champ run- delhi 2026",
+  "city": "Delhi/NCR",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/winter_champ_run_delhi_2026_39816",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "ir-telangana_ultra_marathon_02_23708",
+  "name": "TELANGANA ULTRA MARATHON 0.2",
+  "city": "Gandipet",
+  "state": "Telangana",
+  "zone": "South",
+  "dateText": "19 Dec 2026",
+  "month": "2026-12",
+  "scope": "india",
+  "distances": [
+   "5K",
+   "10K",
+   "Half",
+   "42K",
+   "50K"
+  ],
+  "url": "https://indiarunning.com/event/telangana_ultra_marathon_02_23708",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: K NAGARAJU ).",
+  "lastChecked": "Checked 15 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
   ]
  }
 ]
