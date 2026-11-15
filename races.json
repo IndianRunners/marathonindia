@@ -694,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -1820,7 +1820,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -6607,6 +6608,168 @@
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
+  ]
+ },
+ {
+  "id": "end-ajay-atul-themed-zumba",
+  "name": "Ajay-Atul Themed Zumba",
+  "city": "Pune",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "17 Nov 2026",
+  "month": "2026-11",
+  "scope": "pune",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/ethcurefitnessclub/events/562e9d34-10dc-4476-b14e-4650873a412b",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-happy-birthday-jaipur-run-299",
+  "name": "Happy Birthday Jaipur Run - 299",
+  "city": "Jaipur",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "18 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/jaipurrunnersclub/events/3f038d44-b1c2-4a6b-9b56-cfac981c5f85",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-122-km-in-12-hours-record-attempt",
+  "name": "122 KM in 12 Hours Record Attempt",
+  "city": "Delhi(NCR)",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "18 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/rewari-runners-fleet/events/9002e501-467b-46dc-bc2b-ca7d0cbb0006",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-saurabh-chaturvedi-122km-endurance-run",
+  "name": "Saurabh Chaturvedi 122KM Endurance Run",
+  "city": "Delhi(NCR)",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "18 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/rewari-runners-fleet/events/79f9819f-1177-496a-99dc-b45e829fb18e",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-udaipur-wellness-retreat-run",
+  "name": "Udaipur Wellness Retreat Run",
+  "city": "Noida",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "19 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/theuprunclub/events/a91740fd-dbf3-4107-85ea-10cd72a0dc57",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-udaipur-runcation",
+  "name": "Udaipur Runcation",
+  "city": "Noida",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "19 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/theuprunclub/events/855794ea-2939-43bd-b00d-83dbb95b5eac",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-cava-x-sis-court-social-pickleball-padel-mixer",
+  "name": "Cava x SIS Court Social - Pickleball & Padel Mixer",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "20 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "Community ride"
+  ],
+  "url": "https://www.endorfin.run/clubs/sistersinsweat-in/events/31f62474-a759-4d82-8695-b4f41bf57c30",
+  "certification": "",
+  "note": "Community ride, not a timed race; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-bombay-on-trail-2-0-retreat-edition",
+  "name": "Bombay On Trail 2.0 - Retreat Edition",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "20 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/bombayonfoot/events/6d0797af-38c0-4c04-ac5c-26d47b7a662f",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
   ]
  }
 ]

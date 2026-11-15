@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-15T14:01:18.791Z",
+ "fetchedAt": "2026-11-15T19:50:49.000Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
   {
@@ -8,13 +8,6 @@
    "date": "2026-11-14",
    "published": "2026-11-14T11:10:27.000Z",
    "source": "The Bridge"
-  },
-  {
-   "title": "Ladakh Marathon to introduce 180-km Siachen Ultra in September 2027",
-   "url": "https://www.hindustantimes.com/sports/others/ladakh-marathon-to-introduce-180-km-siachen-ultra-in-september-2027-101794583428556.html",
-   "date": "2026-11-13",
-   "published": "2026-11-13T15:36:27.000Z",
-   "source": "Hindustan Times Sports"
   }
  ],
  "global": [
@@ -47,20 +40,6 @@
    "source": "Runner's World"
   },
   {
-   "title": "A lap with Alice Braham",
-   "url": "https://athleticsweekly.com/news/a-lap-with-alice-braham-1040014076/",
-   "date": "2026-11-12",
-   "published": "2026-11-12T13:22:15.000Z",
-   "source": "Athletics Weekly"
-  },
-  {
-   "title": "Into the wild: the history of trail running",
-   "url": "https://athleticsweekly.com/news/into-the-wild-the-history-of-trail-running-1040014077/",
-   "date": "2026-11-12",
-   "published": "2026-11-12T13:25:13.000Z",
-   "source": "Athletics Weekly"
-  },
-  {
    "title": "She Trained Through Alaskan Winters to Run a Sub-3 Marathon. These Strategies Helped Her Fight the Cold and Stay Consistent.",
    "url": "https://www.runnersworld.com/training/a74391080/winter-running-advice-cold-weather/",
    "date": "2026-11-11",
@@ -73,13 +52,6 @@
    "date": "2026-11-11",
    "published": "2026-11-11T19:56:41.000Z",
    "source": "Runner's World"
-  },
-  {
-   "title": "Josh Griffiths handed three-month ban",
-   "url": "https://athleticsweekly.com/news/josh-griffiths-handed-three-month-ban-1040014073/",
-   "date": "2026-11-11",
-   "published": "2026-11-11T14:40:03.000Z",
-   "source": "Athletics Weekly"
   },
   {
    "title": "Run the Big Sur International Marathon With Runner’s World",
