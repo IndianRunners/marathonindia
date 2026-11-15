@@ -4,7 +4,7 @@
   "name": "CME Soldierathon Pune",
   "city": "Pune",
   "state": "Maharashtra",
-  "dateText": "15 Nov 2026",
+  "dateText": "15 Nov 2026 On today",
   "month": "2026-11",
   "scope": "pune",
   "distances": [
@@ -122,7 +122,7 @@
   ],
   "url": "https://registration.eventforce.ai/event/45/lokmat-mahamarathon-season-10-pune",
   "certification": "WA course cert: \"Pune Maha\" half, 10K and 5K to 2030 (route tbc)",
-  "lastChecked": "Fees re-checked 14 Nov 2026 on the registration page",
+  "lastChecked": "Fees re-checked 15 Nov 2026 on the registration page",
   "note": "Coupon code AK1 for Pune City runners, valid on the 10K and 21K only. Activated 6 October 2026. No expiry or usage limit stated. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
@@ -694,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -1747,7 +1747,7 @@
   ],
   "url": "https://indiarunning.com/event/mehsana_marathon__edition_2_31729",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Run2gether).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -1889,11 +1889,12 @@
   ],
   "url": "https://indiarunning.com/event/namma_run_coimbatore__south_edition_52470",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: TE SPORTS).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -1938,7 +1939,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -1962,7 +1964,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -1984,7 +1987,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -2007,7 +2011,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -2047,7 +2052,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -2070,7 +2076,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -6232,6 +6239,326 @@
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
+  ]
+ },
+ {
+  "id": "end-sbi-green-marathon-s7-visakhapatnam",
+  "name": "SBI Green Marathon S7 Visakhapatnam",
+  "city": "",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/1724e748-2327-4653-beea-407bb3651e5c",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-namma-otta-run-2026",
+  "name": "NAMMA OTTA RUN 2026",
+  "city": "",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/2303ac50-22ec-4764-973f-b311f0d55258",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-bsf-jammu-ultra-marathon",
+  "name": "BSF JAMMU ULTRA MARATHON",
+  "city": "Jammu",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/bsf_jammu_ultra_marathon_47929",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-suyra-half-marathon-2026",
+  "name": "Suyra Half Marathon 2026",
+  "city": "Jabalpur",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/suyra_half_marathon_2026_22540",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-sbi-green-marathon-s7-vishakhapatnam",
+  "name": "SBI Green Marathon S7 Vishakhapatnam",
+  "city": "",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/33af2ea6-9b4a-4d45-a86f-be9117ae938a",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-iit-hyderabad-half-marathon-2026-3rd-edition",
+  "name": "IIT Hyderabad Half Marathon 2026 - 3rd Edition",
+  "city": "Hyderabad",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/IITHHM_2026",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-stick-to-safety-quality-marathon-2026",
+  "name": "Stick to Safety Quality Marathon 2026",
+  "city": "South United Football Club",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/965ea331-b564-4c34-baca-73e63c88bc42",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-kalanwali-half-marathon-2026",
+  "name": "Kalanwali Half Marathon 2026",
+  "city": "Kalanwali",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/dcecee9f-fe13-49f7-9083-91450366f8b7",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-chennai-half-marathon-2026",
+  "name": "Chennai Half Marathon 2026",
+  "city": "Chennai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/CHM26",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-mumbai-s-shakeout-run",
+  "name": "Mumbai's Shakeout Run",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/newbalancerunclubindia/events/640cf1fa-b114-4e35-8747-4d30d598aa23",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-sisters-and-misters-run",
+  "name": "Sisters And Misters Run",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sistersinsweat-in/events/6e090f03-63cd-49e8-bddc-bea76b04d95b",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-get-tagda-with-tanvie-workshop",
+  "name": "Get Tagda With Tanvie Workshop",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sistersinsweat-in/events/739c53d3-01b1-4674-98e9-184528cffa5c",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-master-dance-fitness-class-with-tom",
+  "name": "Master Dance Fitness Class with Tom",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sistersinsweat-in/events/80ab13f7-4852-44d8-a728-f946581aa05e",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-federal-bank-pune-marathon-2026",
+  "name": "Federal Bank Pune Marathon 2026",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/stridersmiles/events/734e0aa3-7890-4e70-a262-e9227038727a",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-pacex-x-being-ultimate-frisbee-session",
+  "name": "PaceX x Being Ultimate Frisbee Session",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/pacexrunclubbangalore/events/b7696cc8-d461-4b85-a84b-89a467feccd7",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-yashoda-half-marathon-4-0-run-for-your-heart",
+  "name": "Yashoda Half Marathon 4.0 - Run For Your Heart",
+  "city": "Noida",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/noidaextensionrunners/events/cb213b14-33eb-43fe-9461-5003418301d1",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 15 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
   ]
  }
 ]
