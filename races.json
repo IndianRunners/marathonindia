@@ -694,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -1866,7 +1866,7 @@
   ],
   "url": "https://indiarunning.com/event/yashoda_medicity_presents__yashoda_half_marathon_40_45823",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Marathon Sports Hub).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -6789,6 +6789,30 @@
   "url": "https://indiarunning.com/event/mumbairepublicdayrunghatkopar-71572",
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Sukarma Events).",
+  "lastChecked": "Checked 16 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-mahabaleshwar_eco_trail_2026_45023",
+  "name": "Mahabaleshwar Eco Trail 2026",
+  "city": "Ganeshpeth",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "27 Dec 2026",
+  "month": "2026-12",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "5K",
+   "10K",
+   "21K"
+  ],
+  "url": "https://indiarunning.com/event/mahabaleshwar_eco_trail_2026_45023",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
   "lastChecked": "Checked 16 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [

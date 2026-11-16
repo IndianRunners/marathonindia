@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-16T02:14:54.158Z",
+ "fetchedAt": "2026-11-16T15:56:43.282Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
   {
@@ -11,6 +11,20 @@
   }
  ],
  "global": [
+  {
+   "title": "The 10 Best Trail Running Shoes for Trails, Gravel, and More",
+   "url": "https://www.runnersworld.com/gear/a22115120/best-trail-running-shoes/",
+   "date": "2026-11-16",
+   "published": "2026-11-16T15:54:00.000Z",
+   "source": "Runner's World"
+  },
+  {
+   "title": "Destination Doha: Racing on the fast Doha Corniche",
+   "url": "https://athleticsweekly.com/aw-promotion/destination-doha-racing-on-the-fast-doha-corniche-1040014124/",
+   "date": "2026-11-16",
+   "published": "2026-11-16T13:29:17.000Z",
+   "source": "Athletics Weekly"
+  },
   {
    "title": "The 3 Types of Running Workouts You Need to Train for Your First Half Marathon",
    "url": "https://www.runnersworld.com/training/a74415330/half-marathon-workouts-beginners/",
@@ -38,20 +52,6 @@
    "date": "2026-11-12",
    "published": "2026-11-12T19:32:22.000Z",
    "source": "Runner's World"
-  },
-  {
-   "title": "A lap with Alice Braham",
-   "url": "https://athleticsweekly.com/news/a-lap-with-alice-braham-1040014076/",
-   "date": "2026-11-12",
-   "published": "2026-11-12T13:22:15.000Z",
-   "source": "Athletics Weekly"
-  },
-  {
-   "title": "Into the wild: the history of trail running",
-   "url": "https://athleticsweekly.com/news/into-the-wild-the-history-of-trail-running-1040014077/",
-   "date": "2026-11-12",
-   "published": "2026-11-12T13:25:13.000Z",
-   "source": "Athletics Weekly"
   },
   {
    "title": "She Trained Through Alaskan Winters to Run a Sub-3 Marathon. These Strategies Helped Her Fight the Cold and Stay Consistent.",
@@ -93,13 +93,6 @@
    "url": "https://www.runnersworld.com/training/a74205083/marathon-training-cycle-race-seasons/",
    "date": "2026-11-08",
    "published": "2026-11-08T13:00:00.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "I Added 10 More Miles a Week to Marathon Training—and Seriously Felt the Difference at Mile 20. Here’s How to Do It Effectively.",
-   "url": "https://www.runnersworld.com/training/a74361142/increase-weekly-mileage-marathon-durability/",
-   "date": "2026-11-07",
-   "published": "2026-11-07T13:00:00.000Z",
    "source": "Runner's World"
   },
   {
