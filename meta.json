@@ -1,7 +1,7 @@
 {
- "fetchedAt": "2026-11-15T19:50:29.370Z",
- "races": 306,
- "upcoming": 252,
+ "fetchedAt": "2026-11-16T02:14:32.233Z",
+ "races": 307,
+ "upcoming": 229,
  "sources": [
   "punerunners.com/races",
   "aims-worldrunning.org India directory",
@@ -16,6 +16,6 @@
   "endorfin.run running-events",
   "official multisport event sites (IRONMAN, Zuuperman, Bergman, DuYoska, Pune Grand Tour)"
  ],
- "runUrl": "https://github.com/IndianRunners/marathonindia/actions/runs/43754540586",
+ "runUrl": "https://github.com/IndianRunners/marathonindia/actions/runs/43790757702",
  "connectorErrors": []
 }

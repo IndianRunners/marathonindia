@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-15T19:50:49.000Z",
+ "fetchedAt": "2026-11-16T02:14:54.158Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
   {
@@ -38,6 +38,20 @@
    "date": "2026-11-12",
    "published": "2026-11-12T19:32:22.000Z",
    "source": "Runner's World"
+  },
+  {
+   "title": "A lap with Alice Braham",
+   "url": "https://athleticsweekly.com/news/a-lap-with-alice-braham-1040014076/",
+   "date": "2026-11-12",
+   "published": "2026-11-12T13:22:15.000Z",
+   "source": "Athletics Weekly"
+  },
+  {
+   "title": "Into the wild: the history of trail running",
+   "url": "https://athleticsweekly.com/news/into-the-wild-the-history-of-trail-running-1040014077/",
+   "date": "2026-11-12",
+   "published": "2026-11-12T13:25:13.000Z",
+   "source": "Athletics Weekly"
   },
   {
    "title": "She Trained Through Alaskan Winters to Run a Sub-3 Marathon. These Strategies Helped Her Fight the Cold and Stay Consistent.",
