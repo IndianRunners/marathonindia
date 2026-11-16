@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var state = { city: 'Pune', zone: '', st: '', dist: '', certOnly: false, q: '', when: '', sport: '' };
+  var state = { city: 'all', zone: '', st: '', dist: '', certOnly: false, q: '', when: '', sport: '' };
   var races = [];
 
   var el = {
@@ -13,8 +13,74 @@
     fCity: document.getElementById('f-city'),
     fDist: document.getElementById('f-dist'),
     fCert: document.getElementById('f-cert'),
-    fSearch: document.getElementById('f-search')
+    fSearch: document.getElementById('f-search'),
+    fHome: document.getElementById('f-home'),
+    locate: document.getElementById('f-locate'),
+    nearPanel: document.getElementById('near-panel'),
+    nearNote: document.getElementById('near-note'),
+    nearBtn: document.querySelector('[data-city="near"]')
   };
+
+
+  // "Near me": the visitor picks a metro, or taps "Use my location" (browser
+  // permission asked only on that tap). The choice is kept in this browser's
+  // localStorage only. Nothing is sent anywhere; no external lookup is used.
+  var METROS = [
+    { name: 'Pune', lat: 18.52, lon: 73.86, alias: ['pune'] },
+    { name: 'Mumbai', lat: 19.08, lon: 72.88, alias: ['mumbai', 'thane', 'malad', 'bkc'] },
+    { name: 'Delhi NCR', lat: 28.61, lon: 77.21, alias: ['delhi', 'noida', 'gurugram', 'gurgaon', 'ghaziabad', 'faridabad'] },
+    { name: 'Bengaluru', lat: 12.97, lon: 77.59, alias: ['bengaluru', 'bangalore'] },
+    { name: 'Hyderabad', lat: 17.39, lon: 78.49, alias: ['hyderabad', 'gachibowli', 'secunderabad'] },
+    { name: 'Chennai', lat: 13.08, lon: 80.27, alias: ['chennai'] },
+    { name: 'Kolkata', lat: 22.57, lon: 88.36, alias: ['kolkata', 'calcutta'] },
+    { name: 'Ahmedabad', lat: 23.02, lon: 72.57, alias: ['ahmedabad', 'amdavad'] },
+    { name: 'Vadodara', lat: 22.31, lon: 73.18, alias: ['vadodara', 'baroda'] },
+    { name: 'Jaipur', lat: 26.91, lon: 75.79, alias: ['jaipur'] },
+    { name: 'Kochi', lat: 9.93, lon: 76.27, alias: ['kochi', 'cochin'] },
+    { name: 'Goa', lat: 15.5, lon: 73.83, alias: ['goa'] },
+    { name: 'Dehradun', lat: 30.32, lon: 78.03, alias: ['dehradun'] },
+    { name: 'Bhubaneswar', lat: 20.3, lon: 85.82, alias: ['bhubaneswar'] },
+    { name: 'Indore', lat: 22.72, lon: 75.86, alias: ['indore'] },
+    { name: 'Bhopal', lat: 23.26, lon: 77.41, alias: ['bhopal'] },
+    { name: 'Chandigarh', lat: 30.73, lon: 76.78, alias: ['chandigarh', 'mohali', 'panchkula'] },
+    { name: 'Visakhapatnam', lat: 17.69, lon: 83.22, alias: ['visakhapatnam', 'vizag'] },
+    { name: 'Thiruvananthapuram', lat: 8.52, lon: 76.94, alias: ['thiruvananthapuram', 'trivandrum'] }
+  ];
+  var HOME_KEY = 'marathonindia.home';
+  function metroByName(n) { for (var i = 0; i < METROS.length; i++) if (METROS[i].name === n) return METROS[i]; return null; }
+  function getHome() { try { var h = localStorage.getItem(HOME_KEY); return metroByName(h) ? h : ''; } catch (e) { return ''; } }
+  function setHome(n) { state.home = n; try { if (n) localStorage.setItem(HOME_KEY, n); else localStorage.removeItem(HOME_KEY); } catch (e) {} }
+  function metrosIn(text) {
+    var t = (text || '').toLowerCase();
+    return METROS.filter(function (m) { return m.alias.some(function (a) { return t.indexOf(a) !== -1; }); })
+      .map(function (m) { return m.name; });
+  }
+  // Local match uses the listed city (or a locality inside it) first; the race
+  // name only decides when the city names no metro. A record whose city and name
+  // point to different metros is unresolved and is left out of local-only views
+  // (it still shows under All India). Source records are never modified.
+  function isLocal(r, home) {
+    if (!metroByName(home)) return true;
+    var cm = metrosIn(r.city), nm = metrosIn(r.name);
+    if (cm.length > 1) return false;
+    if (cm.length === 1) return cm[0] === home && !nm.some(function (x) { return x !== cm[0]; });
+    return nm.length === 1 && nm[0] === home;
+  }
+  // Zone of a metro, taken from the data itself (most common zone among its races).
+  function metroZone(name) {
+    var m = metroByName(name), n = {}, best = '', bc = 0;
+    if (!m) return '';
+    races.forEach(function (r) {
+      if (r.zone && metrosIn(r.city).length === 1 && metrosIn(r.city)[0] === name) n[r.zone] = (n[r.zone] || 0) + 1;
+    });
+    Object.keys(n).forEach(function (z) { if (n[z] > bc) { bc = n[z]; best = z; } });
+    return best;
+  }
+  function km(a, b, c, d) {
+    var R = 6371, t = Math.PI / 180, dl = (c - a) * t, dn = (d - b) * t;
+    var x = Math.sin(dl / 2) * Math.sin(dl / 2) + Math.cos(a * t) * Math.cos(c * t) * Math.sin(dn / 2) * Math.sin(dn / 2);
+    return 2 * R * Math.asin(Math.sqrt(x));
+  }
 
   function isCertified(r) {
     return /AIMS|World Athletics|WA |ITRA/i.test(r.certification || '');
@@ -75,7 +141,7 @@
     } else if (state.when === 'quarter') {
       if (nextQuarter().indexOf(r.month) === -1) return false;
     }
-    if (state.city === 'Pune' && r.scope.indexOf('pune') !== 0 && r.scope.indexOf('near-pune') !== 0) return false;
+    if (state.city === 'near' && state.home && !isLocal(r, state.home)) return false;
     if (state.zone && r.zone !== state.zone) return false;
     if (state.st && r.state !== state.st) return false;
     if (state.citySel && r.city !== state.citySel) return false;
@@ -171,9 +237,13 @@
       }
       el.races.appendChild(card);
     });
+    syncNear();
     el.empty.hidden = list.length > 0;
+    var eb = document.getElementById('empty-all');
+    if (eb) eb.hidden = !(state.city === 'near' && state.home);
     el.count.textContent = list.length + (list.length === 1 ? ' race' : ' races') +
-      (state.city === 'Pune' ? ' in and near Pune' : state.zone ? ' in ' + state.zone + ' India' : ' across India');
+      (state.city === 'near' ? (state.home ? ' listed for ' + state.home : ' across India. Choose your city above to see local races first') : state.zone ? ' in ' + state.zone + ' India' : ' across India');
+    if (state.msg) el.count.textContent += '. ' + state.msg;
   }
 
   // Date chips carry their exact ranges in the label, so 'next month' and
@@ -202,14 +272,7 @@
       document.querySelectorAll('[data-sport]').forEach(function (b) { b.classList.remove('is-on'); });
       btn.classList.add('is-on');
       state.sport = btn.getAttribute('data-sport');
-      // A sport choice is an all-India view: drop the Pune-first city filter,
-      // mirroring the zone chips, otherwise triathlon/cycling look empty.
-      if (state.sport && state.city !== 'all') {
-        state.city = 'all';
-        document.querySelectorAll('[data-city]').forEach(function (b) {
-          b.classList.toggle('is-on', b.getAttribute('data-city') === 'all');
-        });
-      }
+      state.msg = '';
       render();
     });
   });
@@ -219,10 +282,12 @@
       btn.classList.add('is-on');
       state.zone = btn.getAttribute('data-zone');
       state.st = ''; state.citySel = '';
-      // A zone choice is an all-India view: drop the Pune-first city filter
-      // and reflect that on the city chips, otherwise the list goes empty.
-      if (state.city !== 'all') {
+      // A zone that contains the chosen local city keeps it. A zone that does
+      // not (or a plain Pune-first-style list) switches to All India, and says so.
+      state.msg = '';
+      if (state.city === 'near' && state.home && state.zone && metroZone(state.home) !== state.zone) {
         state.city = 'all';
+        state.msg = 'Switched to All India because ' + state.home + ' is not in the ' + state.zone + ' zone.';
         document.querySelectorAll('[data-city]').forEach(function (b) {
           b.classList.toggle('is-on', b.getAttribute('data-city') === 'all');
         });
@@ -236,6 +301,8 @@
       document.querySelectorAll('[data-city]').forEach(function (b) { b.classList.remove('is-on'); });
       btn.classList.add('is-on');
       state.city = btn.getAttribute('data-city');
+      state.msg = '';
+      reconcileZone();
       render();
     });
   });
@@ -244,6 +311,43 @@
   el.fDist.addEventListener('change', function () { state.dist = el.fDist.value; render(); });
   el.fCert.addEventListener('change', function () { state.certOnly = el.fCert.checked; render(); });
   el.fSearch.addEventListener('input', function () { state.q = el.fSearch.value.trim().toLowerCase(); render(); });
+
+
+  // If a zone is selected that does not contain the chosen local city, clear the zone visibly.
+  function reconcileZone() {
+    if (state.city === 'near' && state.home && state.zone && metroZone(state.home) !== state.zone) {
+      state.msg = 'Zone cleared because ' + state.home + ' is not in the ' + state.zone + ' zone.';
+      state.zone = ''; state.st = ''; state.citySel = '';
+      document.querySelectorAll('[data-zone]').forEach(function (b) { b.classList.toggle('is-on', b.getAttribute('data-zone') === ''); });
+      refreshFilterOptions();
+    }
+  }
+  function syncNear() {
+    var on = state.city === 'near';
+    if (el.nearPanel) el.nearPanel.hidden = !on;
+    if (el.nearBtn) el.nearBtn.textContent = state.home ? 'Near ' + state.home : 'Near me';
+    if (el.fHome && el.fHome.value !== (state.home || '')) el.fHome.value = state.home || '';
+  }
+  if (el.fHome) {
+    METROS.forEach(function (m) { var o = document.createElement('option'); o.value = m.name; o.textContent = m.name; el.fHome.appendChild(o); });
+    state.home = getHome();
+    if (state.home) state.city = 'near';
+    document.querySelectorAll('[data-city]').forEach(function (b) { b.classList.toggle('is-on', b.getAttribute('data-city') === state.city); });
+    el.fHome.addEventListener('change', function () { setHome(el.fHome.value); state.msg = ''; reconcileZone(); if (el.nearNote) el.nearNote.textContent = ''; render(); });
+    document.getElementById('f-clear').addEventListener('click', function () { setHome(''); el.nearNote.textContent = 'Saved city cleared from this browser.'; render(); });
+    document.getElementById('empty-all').addEventListener('click', function () { document.querySelector('[data-city="all"]').click(); });
+    el.locate.addEventListener('click', function () {
+      if (!navigator.geolocation) { el.nearNote.textContent = 'Location is not available in this browser. Pick your city instead.'; return; }
+      el.nearNote.textContent = 'Asking your browser for your location...';
+      navigator.geolocation.getCurrentPosition(function (p) {
+        var best = null, bd = 1e9;
+        METROS.forEach(function (m) { var d = km(p.coords.latitude, p.coords.longitude, m.lat, m.lon); if (d < bd) { bd = d; best = m; } });
+        if (best && bd <= 150) { setHome(best.name); state.msg = ''; reconcileZone(); el.nearNote.textContent = 'Using ' + best.name + ' (nearest listed metro, about ' + Math.round(bd) + ' km away). Your location itself was not saved or sent anywhere.'; }
+        else el.nearNote.textContent = 'No listed city within 150 km. Pick the closest one from the list.';
+        render();
+      }, function () { el.nearNote.textContent = 'Location was not shared. Pick your city instead.'; }, { timeout: 10000, maximumAge: 600000 });
+    });
+  }
 
   fetch('meta.json', { cache: 'no-cache' }).then(function (res) { return res.ok ? res.json() : null; }).then(function (m) {
     if (!m) return;

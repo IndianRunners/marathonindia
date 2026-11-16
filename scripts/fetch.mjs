@@ -699,8 +699,8 @@ function isHiddenPast(r, nowUtc) {
 }
 function preRenderRaces(races) {
   const up = races.filter(r => !isHiddenPast(r, new Date()));
-  const order = (r) => (r.scope || '').indexOf('pune') === 0 ? 0 : (r.scope || '').indexOf('near-pune') === 0 ? 1 : 2;
-  up.sort((a, b) => (order(a) - order(b)) || dayKey(a).localeCompare(dayKey(b)));
+  // Neutral order (soonest first). The page itself reorders by the visitor's own choice.
+  up.sort((a, b) => dayKey(a).localeCompare(dayKey(b)));
   const cards = up.map(r => {
     const url = r.url && r.url[0] === '/' && r.url[1] !== '/' ? 'https://punerunners.com' + r.url : (r.url || '');
     return '<article class="card"><div class="card__date">' + escHtml(r.dateText || 'Date to be confirmed') + '</div>'
