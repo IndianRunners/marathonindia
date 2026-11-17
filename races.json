@@ -4,7 +4,7 @@
   "name": "CME Soldierathon Pune",
   "city": "Pune",
   "state": "Maharashtra",
-  "dateText": "15 Nov 2026 On today",
+  "dateText": "15 Nov 2026 Past race",
   "month": "2026-11",
   "scope": "pune",
   "distances": [
@@ -122,7 +122,7 @@
   ],
   "url": "https://registration.eventforce.ai/event/45/lokmat-mahamarathon-season-10-pune",
   "certification": "WA course cert: \"Pune Maha\" half, 10K and 5K to 2030 (route tbc)",
-  "lastChecked": "Fees re-checked 16 Nov 2026 on the registration page",
+  "lastChecked": "Fees re-checked 17 Nov 2026 on the registration page",
   "note": "Coupon code AK1 for Pune City runners, valid on the 10K and 21K only. Activated 6 October 2026. No expiry or usage limit stated. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
@@ -142,7 +142,7 @@
   "name": "Apla Pune Marathon / Pune World Marathon",
   "city": "Pune",
   "state": "Maharashtra",
-  "dateText": "Next edition date not announced Date TBC",
+  "dateText": "Next edition date not announced Date to be announced",
   "month": "",
   "scope": "pune",
   "distances": [
@@ -165,7 +165,7 @@
   "name": "NDA Marathon and Half Marathon",
   "city": "Pune",
   "state": "Maharashtra",
-  "dateText": "Next edition date not announced Date TBC",
+  "dateText": "Next edition date not announced Date to be announced",
   "month": "",
   "scope": "pune",
   "distances": [
@@ -189,7 +189,7 @@
   "name": "Pune City Half Marathon",
   "city": "Pune",
   "state": "Maharashtra",
-  "dateText": "Next edition date not announced Date TBC",
+  "dateText": "Next edition date not announced Date to be announced",
   "month": "",
   "scope": "pune",
   "distances": [
@@ -240,7 +240,7 @@
   "name": "Vasai Virar Municipal Corporation Marathon",
   "city": "Vasai-Virar",
   "state": "Maharashtra",
-  "dateText": "Postponed. New date awaited. Date TBC",
+  "dateText": "Postponed. New date awaited. Date to be announced",
   "month": "2026-12",
   "scope": "near-pune",
   "distances": [
@@ -381,7 +381,7 @@
   "name": "Cognizant New Delhi Marathon",
   "city": "New Delhi",
   "state": "Delhi",
-  "dateText": "2027 date conflict: the organiser says 28 February, AIMS says 21 February. Verify before booking. Date TBC",
+  "dateText": "2027 date conflict: the organiser says 28 February, AIMS says 21 February. Verify before booking. Date to be announced",
   "month": "2027-02",
   "scope": "india",
   "distances": [
@@ -409,7 +409,7 @@
   "name": "NMDC Hyderabad Marathon",
   "city": "Hyderabad",
   "state": "Telangana",
-  "dateText": "2027 date not announced. Last edition 29 to 30 August 2026. Date TBC",
+  "dateText": "2027 date not announced. Last edition 29 to 30 August 2026. Date to be announced",
   "month": "",
   "scope": "india",
   "distances": [
@@ -477,7 +477,7 @@
   "name": "Deccan Ultra",
   "city": "Bhandardara",
   "state": "Maharashtra",
-  "dateText": "A 2027 edition is listed on ITRA, date not confirmed here. Last edition 25 January 2026. Date TBC",
+  "dateText": "A 2027 edition is listed on ITRA, date not confirmed here. Last edition 25 January 2026. Date to be announced",
   "month": "",
   "scope": "near-pune ultra",
   "distances": [
@@ -566,7 +566,7 @@
   "name": "Bhatti Mines Ultra",
   "city": "New Delhi",
   "state": "Delhi",
-  "dateText": "2027 date not announced. Last edition 8 March 2026. Date TBC",
+  "dateText": "2027 date not announced. Last edition 8 March 2026. Date to be announced",
   "month": "",
   "scope": "india ultra",
   "distances": [
@@ -586,7 +586,7 @@
   "name": "BMF Ultra",
   "city": "Bengaluru",
   "state": "Karnataka",
-  "dateText": "2027 date not announced. Last edition 21 June 2026. Date TBC",
+  "dateText": "2027 date not announced. Last edition 21 June 2026. Date to be announced",
   "month": "",
   "scope": "india ultra",
   "distances": [
@@ -606,7 +606,7 @@
   "name": "Red Stone Ultra",
   "city": "Gurugram",
   "state": "Haryana",
-  "dateText": "2027 date not announced. Last edition 8 February 2026. Date TBC",
+  "dateText": "2027 date not announced. Last edition 8 February 2026. Date to be announced",
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
@@ -631,7 +631,7 @@
   "name": "Silk Route Ultra Trail (SRUT)",
   "city": "Narkanda",
   "state": "Himachal Pradesh",
-  "dateText": "2027 date not announced. Last edition 11 April 2026. Date TBC",
+  "dateText": "2027 date not announced. Last edition 11 April 2026. Date to be announced",
   "month": "",
   "scope": "india ultra",
   "distances": [
@@ -694,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": "Race listing on PuneRunners"
+  "ctaLabel": ""
  },
  {
   "id": "run-bhopal-run",
@@ -6814,6 +6814,167 @@
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Fitpage).",
   "lastChecked": "Checked 16 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "end-wednesday-run",
+  "name": "Wednesday Run",
+  "city": "Kochi",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "18 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/kochirunclub/events/f228b30c-873d-4e34-8e19-b485e39287e8",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 17 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-speed-session-race-prep-run-02",
+  "name": "Speed Session (Race Prep Run 02)",
+  "city": "Pune",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "18 Nov 2026",
+  "month": "2026-11",
+  "scope": "pune",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/stridetribe-runclub/events/4fdf6fab-5a43-4955-8a4a-8e2d7d469b73",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 17 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-women-only-steady-pace-6k",
+  "name": "Women Only Steady Pace 6K",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "18 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/therunbayclub/events/a0b95ed9-04c7-454c-8f74-8d26cce18723",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 17 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-wednesday-evening-run-8km-tempo",
+  "name": "Wednesday Evening Run - 8KM Tempo",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "zone": "North",
+  "sport": "run",
+  "dateText": "18 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/delhiruncollective/events/1c094de2-f0fc-47c9-ba8f-fb3a538a5f72",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 17 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-the-cupid-run",
+  "name": "The Cupid Run",
+  "city": "Ghaziabad",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sogaruns/events/ebe2f059-a86d-4ffb-9f2a-ba741b13d592",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 17 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-bib-collection-the-nook",
+  "name": "Bib Collection - The Nook",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/goflorun/events/23037f6e-782e-4e01-837c-87cd977b8f62",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 17 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-sis-x-sport-core-pilates-recovery-and-mobility",
+  "name": "SIS x Sport Core Pilates: Recovery and Mobility",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sistersinsweat-in/events/277146ec-afd3-4bf8-9bb6-0228fb3acc4d",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 17 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "ir-the_next_big__2k_family_walk_14566",
+  "name": "THE NEXT BIG - 2K FAMILY WALK",
+  "city": "SIDCO",
+  "state": "Tamil Nadu",
+  "zone": "South",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "2K"
+  ],
+  "url": "https://indiarunning.com/event/the_next_big__2k_family_walk_14566",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: SPORTENA ACADEMY).",
+  "lastChecked": "Checked 17 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
