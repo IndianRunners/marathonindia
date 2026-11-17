@@ -1,7 +1,14 @@
 {
- "fetchedAt": "2026-11-17T04:35:26.316Z",
+ "fetchedAt": "2026-11-17T16:08:35.684Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
+  {
+   "title": "Running in Humidity",
+   "url": "https://www.geeksonfeet.com/posts/humidity-adaptation-running-kuala-lumpur/",
+   "date": "2026-11-17",
+   "published": "2026-11-17T00:00:00.000Z",
+   "source": "Geeks on Feet"
+  },
   {
    "title": "Ladakh Marathon launches 111-mile long Siachen Ultra",
    "url": "https://thebridge.in/marathon/ladakh-marathon-launches-111-mile-long-siachen-ultra-58374",
@@ -11,6 +18,20 @@
   }
  ],
  "global": [
+  {
+   "title": "The Best Black Friday Running Shoe Deals Are Here—Save on Brooks, Asics, Saucony, and More",
+   "url": "https://www.runnersworld.com/gear/g70222395/best-running-shoe-deals-2026/",
+   "date": "2026-11-17",
+   "published": "2026-11-17T14:30:00.000Z",
+   "source": "Runner's World"
+  },
+  {
+   "title": "A Runner Took a Midrace Puff of Weed at the NYC Marathon. Now, She’s Disqualified.",
+   "url": "https://www.runnersworld.com/news/a74442266/nyc-marathon-disqualification-weed/",
+   "date": "2026-11-17",
+   "published": "2026-11-17T15:14:58.000Z",
+   "source": "Runner's World"
+  },
   {
    "title": "The 10 Best Trail Running Shoes for Trails, Gravel, and More",
    "url": "https://www.runnersworld.com/gear/a22115120/best-trail-running-shoes/",
@@ -86,20 +107,6 @@
    "url": "https://www.runnersworld.com/news/a74390008/behobia-san-sebastian-disqualifications/",
    "date": "2026-11-10",
    "published": "2026-11-10T21:08:44.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "Inspired by Fall Marathon Season? Here’s What You Need to Do to Prepare for 26.2",
-   "url": "https://www.runnersworld.com/training/a74287251/how-to-prep-for-marathon-training/",
-   "date": "2026-11-09",
-   "published": "2026-11-09T20:48:33.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "Don’t Get Locked Into a Spring or Fall Marathon Cycle. A Run Coach Explains Why You Should Race in Other Seasons.",
-   "url": "https://www.runnersworld.com/training/a74205083/marathon-training-cycle-race-seasons/",
-   "date": "2026-11-08",
-   "published": "2026-11-08T13:00:00.000Z",
    "source": "Runner's World"
   },
   {
