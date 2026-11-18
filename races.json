@@ -694,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -7021,6 +7021,51 @@
   "url": "https://indiarunning.com/event/mumbaigreenmarathon14thfebruary2027-79230",
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Omega events).",
+  "lastChecked": "Checked 18 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-newbalancerunclubmumbai10thoctober2026-3436012",
+  "name": "New Balance Run Club Mumbai- 21st November 2026",
+  "city": "New Marine Lines",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "5K"
+  ],
+  "url": "https://indiarunning.com/event/newbalancerunclubmumbai10thoctober2026-3436012",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "lastChecked": "Checked 18 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-nationalcancerawarenessdayrun2026-49299",
+  "name": "National Cancer Awareness Day Run 2026",
+  "city": "Anywhere",
+  "state": "",
+  "zone": "",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "5K",
+   "10K",
+   "Half"
+  ],
+  "url": "https://indiarunning.com/event/nationalcancerawarenessdayrun2026-49299",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Sportz Zone Events).",
   "lastChecked": "Checked 18 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
