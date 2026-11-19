@@ -610,13 +610,12 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K",
-   "Ultra"
+   "50K"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page.",
+  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -694,7 +693,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -2075,7 +2074,7 @@
   ],
   "url": "https://indiarunning.com/event/pacex_run__play_lake_runs_and_frisbee_edition_25688",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Book of Youth).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -3554,7 +3553,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -7088,6 +7088,110 @@
   "url": "https://indiarunning.com/event/one_earth_one_heart_5k_bengaluru_8890",
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: RGB NET PRODUCTIONS).",
+  "lastChecked": "Checked 19 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "end-train-for-bikaner-marathon",
+  "name": "Train For Bikaner Marathon",
+  "city": "Bikaner",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "19 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/bikanerrunclub/events/d9b607b2-a15d-4ec5-8de9-857540d82d5e",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 19 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-we-run-for-the-kids",
+  "name": "We Run, For The Kids",
+  "city": "Chennai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/batclub/events/f791e6b7-9eb8-4272-a644-eb319a87dceb",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 19 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "ir-5k_neon_run_22216",
+  "name": "5K Neon Run",
+  "city": "Phase 2",
+  "state": "Karnataka",
+  "zone": "South",
+  "dateText": "20 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "5K"
+  ],
+  "url": "https://indiarunning.com/event/5k_neon_run_22216",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: 7EVE).",
+  "lastChecked": "Checked 19 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-beathlitlakerunjanuary2027edition-29214",
+  "name": "BeAthlit Lake Run - January 2027 Edition",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "zone": "South",
+  "dateText": "10 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [],
+  "url": "https://indiarunning.com/event/beathlitlakerunjanuary2027edition-29214",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Leanpitch Technologies Pvt Ltd).",
+  "lastChecked": "Checked 19 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-news18_run_ranchi__mera_run_ranchi_21977",
+  "name": "News18 RUN Ranchi - Mera Run Ranchi",
+  "city": "Ranchi",
+  "state": "Jharkhand",
+  "zone": "East",
+  "dateText": "17 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "2K",
+   "3K",
+   "5K",
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/news18_run_ranchi__mera_run_ranchi_21977",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: CANNDID MEEDIA LOGIKKS PRIVATE LIMITED).",
   "lastChecked": "Checked 19 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [

@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-19T03:42:04.183Z",
+ "fetchedAt": "2026-11-19T15:51:12.135Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
   {
@@ -8,6 +8,20 @@
    "date": "2026-11-19",
    "published": "2026-11-19T03:14:40.000Z",
    "source": "Hindustan Times Sports"
+  },
+  {
+   "title": "Kenya's Olympic and world marathon champion Peres Jepchirchir handed 3-year ban over doping",
+   "url": "https://www.hindustantimes.com/sports/others/kenyas-olympic-and-world-marathon-champion-peres-jepchirchir-handed-3-year-ban-over-doping-101795084050168.html",
+   "date": "2026-11-19",
+   "published": "2026-11-19T10:40:43.000Z",
+   "source": "Hindustan Times Sports"
+  },
+  {
+   "title": "World marathon champion Jepchirchir given three-year ban for doping",
+   "url": "https://sportstar.thehindu.com/athletics/peres-jepchirchir-banned-for-doping-ban-three-years-epo-blood-booster-athletics-marathon/article71719048.ece",
+   "date": "2026-11-19",
+   "published": "2026-11-19T07:06:05.000Z",
+   "source": "Sportstar (The Hindu)"
   },
   {
    "title": "Running in Humidity",
@@ -25,6 +39,13 @@
   }
  ],
  "global": [
+  {
+   "title": "Peres Jepchirchir banned for three years for EPO use",
+   "url": "https://athleticsweekly.com/news/peres-jepchirchir-banned-for-three-years-for-epo-use-1040014155/",
+   "date": "2026-11-19",
+   "published": "2026-11-19T09:49:02.000Z",
+   "source": "Athletics Weekly"
+  },
   {
    "title": "The Best Black Friday Running Shoe Deals Are Here—Save on Brooks, Asics, Saucony, and More",
    "url": "https://www.runnersworld.com/gear/g70222395/best-running-shoe-deals-2026/",
