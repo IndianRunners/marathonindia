@@ -122,7 +122,7 @@
   ],
   "url": "https://registration.eventforce.ai/event/45/lokmat-mahamarathon-season-10-pune",
   "certification": "WA course cert: \"Pune Maha\" half, 10K and 5K to 2030 (route tbc)",
-  "lastChecked": "Fees re-checked 18 Nov 2026 on the registration page",
+  "lastChecked": "Fees re-checked 19 Nov 2026 on the registration page",
   "note": "Coupon code AK1 for Pune City runners, valid on the 10K and 21K only. Activated 6 October 2026. No expiry or usage limit stated. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
@@ -694,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": "Race listing on PuneRunners"
+  "ctaLabel": ""
  },
  {
   "id": "run-bhopal-run",
@@ -7045,7 +7045,8 @@
   "lastChecked": "Checked 18 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -7067,6 +7068,27 @@
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Sportz Zone Events).",
   "lastChecked": "Checked 18 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-one_earth_one_heart_5k_bengaluru_8890",
+  "name": "One Earth One Heart 5K Bengaluru",
+  "city": "BEML Layout",
+  "state": "Karnataka",
+  "zone": "South",
+  "dateText": "13 Dec 2026",
+  "month": "2026-12",
+  "scope": "india",
+  "distances": [
+   "5K"
+  ],
+  "url": "https://indiarunning.com/event/one_earth_one_heart_5k_bengaluru_8890",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: RGB NET PRODUCTIONS).",
+  "lastChecked": "Checked 19 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
