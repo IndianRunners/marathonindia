@@ -122,7 +122,7 @@
   ],
   "url": "https://registration.eventforce.ai/event/45/lokmat-mahamarathon-season-10-pune",
   "certification": "WA course cert: \"Pune Maha\" half, 10K and 5K to 2030 (route tbc)",
-  "lastChecked": "Fees re-checked 19 Nov 2026 on the registration page",
+  "lastChecked": "Fees re-checked 20 Nov 2026 on the registration page",
   "note": "Coupon code AK1 for Pune City runners, valid on the 10K and 21K only. Activated 6 October 2026. No expiry or usage limit stated. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
@@ -610,12 +610,13 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K"
+   "50K",
+   "Ultra"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
+  "note": "The Hell Race organiser listing; venue per the race page.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -693,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": "Race listing on PuneRunners"
+  "ctaLabel": ""
  },
  {
   "id": "run-bhopal-run",
@@ -7152,7 +7153,8 @@
   "lastChecked": "Checked 19 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -7196,6 +7198,186 @@
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
+  ]
+ },
+ {
+  "id": "end-happy-feet-run-malkam-cheruvu",
+  "name": "Happy Feet Run @ Malkam Cheruvu",
+  "city": "Hyderabad",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/HFR211126",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-friday-training-block-003",
+  "name": "Friday Training Block 003",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "20 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/daudrunclub/events/9d7d95a0-7dfe-4b99-85fc-01d69e810e53",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-frc-surat-one-year-anniversary-run",
+  "name": "FRC Surat One Year Anniversary Run",
+  "city": "Surat",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/frcsurat/events/5224b2a0-7451-4d3f-a1ba-522e95223a65",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-shakeout-run-wnc-navy-2026",
+  "name": "Shakeout Run - WNC Navy 2026",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/foundersrunningclubmumbai/events/ad2869bc-2468-443c-85ef-8777fb6b099b",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-week-93-run-rampage",
+  "name": "Week 93: Run & Rampage",
+  "city": "Chennai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/cloka-club/events/8f95187a-aa14-4f6b-8936-555d85cbcd49",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-navy-shakeout-run",
+  "name": "Navy Shakeout Run",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/therunbayclub/events/21e69c37-364d-435d-a309-2ac653afcce4",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-sisters-misters-5k-run",
+  "name": "Sisters & Misters 5K Run",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sistersinsweat-in/events/437c01df-e50e-4a2b-984a-bd77b2c65759",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-run-to-malabar-hill",
+  "name": "Run to Malabar Hill",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/pudhechalamumbai/events/6953c92e-ba21-4281-b081-68399f1f6ab3",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-run-ritual",
+  "name": "Run Ritual",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "zone": "North",
+  "sport": "run",
+  "dateText": "21 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/thegymcollective/events/8177511d-b287-4ba0-9a47-9dff73d972a6",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
   ]
  }
 ]

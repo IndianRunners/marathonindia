@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-19T15:51:12.135Z",
+ "fetchedAt": "2026-11-20T03:26:03.260Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
   {
@@ -40,6 +40,13 @@
  ],
  "global": [
   {
+   "title": "U.S. Women Could Be Upgraded to World Half Marathon Gold After Kenyan Runner’s EPO Ban",
+   "url": "https://www.runnersworld.com/news/a74481360/world-half-marathon-american-women-upgraded/",
+   "date": "2026-11-19",
+   "published": "2026-11-19T21:57:36.000Z",
+   "source": "Runner's World"
+  },
+  {
    "title": "Peres Jepchirchir banned for three years for EPO use",
    "url": "https://athleticsweekly.com/news/peres-jepchirchir-banned-for-three-years-for-epo-use-1040014155/",
    "date": "2026-11-19",
@@ -47,7 +54,7 @@
    "source": "Athletics Weekly"
   },
   {
-   "title": "The Best Black Friday Running Shoe Deals Are Here—Save on Brooks, Asics, Saucony, and More",
+   "title": "Score Gear of the Year Winner Adidas Adizero Evo SL on Sale for Black Friday, Plus Tons More Shoe Deals",
    "url": "https://www.runnersworld.com/gear/g70222395/best-running-shoe-deals-2026/",
    "date": "2026-11-17",
    "published": "2026-11-17T14:30:00.000Z",
@@ -117,24 +124,10 @@
    "source": "Runner's World"
   },
   {
-   "title": "7 Common 5K Training Mistakes Runners Make",
-   "url": "https://www.runnersworld.com/training/a74411367/5k-race-prep-mistakes/",
-   "date": "2026-11-12",
-   "published": "2026-11-12T14:17:53.000Z",
-   "source": "Runner's World"
-  },
-  {
    "title": "‘At 60, I Went From Zero Running Experience to Finishing the NYC Marathon Within a Year. These 5 Strategies Got Me to the Finish.’",
    "url": "https://www.runnersworld.com/training/a74403666/first-marathon-at-60/",
    "date": "2026-11-12",
    "published": "2026-11-12T19:32:22.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "The Best Advanced GPS Running Watches of 2026, Tested by an Ultrarunner",
-   "url": "https://www.runnersworld.com/gear/a20827055/advanced-gps-watches-for-runners/",
-   "date": "2026-11-11",
-   "published": "2026-11-11T19:56:41.000Z",
    "source": "Runner's World"
   },
   {
