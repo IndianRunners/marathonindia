@@ -610,13 +610,12 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K",
-   "Ultra"
+   "50K"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page.",
+  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -694,7 +693,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -1938,7 +1937,7 @@
   ],
   "url": "https://indiarunning.com/event/rohtak_arathon_12123",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Kamera Varg Social trust).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -1963,7 +1962,7 @@
   ],
   "url": "https://indiarunning.com/event/bilaspur_marathon_30_31977",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Tezzz Club).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -2051,7 +2050,7 @@
   ],
   "url": "https://indiarunning.com/event/aspire_bee_run_5k_25498",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Aspire Bee School).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -7042,7 +7041,7 @@
   ],
   "url": "https://indiarunning.com/event/newbalancerunclubmumbai10thoctober2026-3436012",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 18 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -7378,6 +7377,143 @@
   "source": "endorfin.run",
   "sources": [
    "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-the-morning-ritual",
+  "name": "The Morning Ritual",
+  "city": "Brahmaputra Riverfront",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/the-morning-ritual",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 20 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "ir-run_and_kickboxing_at_indiranagar_32579",
+  "name": "Run and Kickboxing at Indiranagar",
+  "city": "HAL 2nd Stage",
+  "state": "Karnataka",
+  "zone": "South",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "2.5K",
+   "5K"
+  ],
+  "url": "https://indiarunning.com/event/run_and_kickboxing_at_indiranagar_32579",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Book of Youth).",
+  "lastChecked": "Checked 20 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-internationalmensdayhealthrun2026-49269",
+  "name": "International Mens Day Health Run 2026",
+  "city": "Anywhere",
+  "state": "",
+  "zone": "",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "5K",
+   "10K",
+   "Half"
+  ],
+  "url": "https://indiarunning.com/event/internationalmensdayhealthrun2026-49269",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Sportz Zone Events).",
+  "lastChecked": "Checked 20 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-lake_run_and_coffee_rave__hsr_28436",
+  "name": "Lake Run and Coffee Rave - HSR",
+  "city": "Agara Village",
+  "state": "Karnataka",
+  "zone": "South",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "2.5K",
+   "5K",
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/lake_run_and_coffee_rave__hsr_28436",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Book of Youth).",
+  "lastChecked": "Checked 20 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-pcmc_grand_marathon_43021",
+  "name": "PCMC Grand Marathon",
+  "city": "Shinde Vasti",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "10 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "5K",
+   "10K",
+   "21.1K",
+   "42K"
+  ],
+  "url": "https://indiarunning.com/event/pcmc_grand_marathon_43021",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: GLE Concept).",
+  "lastChecked": "Checked 20 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-news18runranchimerarunpatna-21454",
+  "name": "News18 RUN Patna - Mera Run Patna",
+  "city": "Muradpur",
+  "state": "Bihar",
+  "zone": "East",
+  "dateText": "31 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "2K",
+   "3K",
+   "5K",
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/news18runranchimerarunpatna-21454",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: CANNDID MEEDIA LOGIKKS PRIVATE LIMITED).",
+  "lastChecked": "Checked 20 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
   ]
  }
 ]
