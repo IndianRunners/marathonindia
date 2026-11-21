@@ -1,27 +1,20 @@
 {
- "fetchedAt": "2026-11-21T03:16:41.998Z",
+ "fetchedAt": "2026-11-21T14:45:20.304Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
   {
-   "title": "Siachen Ultra: Why fitness alone won't be enough to conquer Ladakh's 180-km race",
-   "url": "https://www.hindustantimes.com/sports/others/siachen-ultra-why-fitness-alone-wont-be-enough-to-conquer-ladakhs-180-km-race-101795000055412.html",
-   "date": "2026-11-19",
-   "published": "2026-11-19T03:14:40.000Z",
-   "source": "Hindustan Times Sports"
-  },
-  {
-   "title": "Kenya's Olympic and world marathon champion Peres Jepchirchir handed 3-year ban over doping",
-   "url": "https://www.hindustantimes.com/sports/others/kenyas-olympic-and-world-marathon-champion-peres-jepchirchir-handed-3-year-ban-over-doping-101795084050168.html",
-   "date": "2026-11-19",
-   "published": "2026-11-19T10:40:43.000Z",
-   "source": "Hindustan Times Sports"
-  },
-  {
-   "title": "World marathon champion Jepchirchir given three-year ban for doping",
-   "url": "https://sportstar.thehindu.com/athletics/peres-jepchirchir-banned-for-doping-ban-three-years-epo-blood-booster-athletics-marathon/article71719048.ece",
-   "date": "2026-11-19",
-   "published": "2026-11-19T07:06:05.000Z",
+   "title": "Indian sports wrap, November 21: Tata Steel World 25K Kolkata set for 11th edition on December 20",
+   "url": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-updates-results-today-november-21-saturday-headlines-india/article71727861.ece",
+   "date": "2026-11-21",
+   "published": "2026-11-21T12:58:14.000Z",
    "source": "Sportstar (The Hindu)"
+  },
+  {
+   "title": "IndianOil WNC Navy Half Marathon 2026 Route Preview",
+   "url": "https://www.geeksonfeet.com/posts/indianoil-wnc-navy-half-route-preview-2026/",
+   "date": "2026-11-20",
+   "published": "2026-11-20T00:00:00.000Z",
+   "source": "Geeks on Feet"
   },
   {
    "title": "Running in Humidity",
@@ -29,13 +22,6 @@
    "date": "2026-11-17",
    "published": "2026-11-17T00:00:00.000Z",
    "source": "Geeks on Feet"
-  },
-  {
-   "title": "Ladakh Marathon launches 111-mile long Siachen Ultra",
-   "url": "https://thebridge.in/marathon/ladakh-marathon-launches-111-mile-long-siachen-ultra-58374",
-   "date": "2026-11-14",
-   "published": "2026-11-14T11:10:27.000Z",
-   "source": "The Bridge"
   }
  ],
  "global": [

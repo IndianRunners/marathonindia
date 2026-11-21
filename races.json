@@ -610,12 +610,13 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K"
+   "50K",
+   "Ultra"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
+  "note": "The Hell Race organiser listing; venue per the race page.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -693,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -2009,7 +2010,7 @@
   ],
   "url": "https://indiarunning.com/event/mumbai_10_km_run__ghatkopar_east_75740",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Omega events).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -5378,21 +5379,27 @@
   "id": "end-indianoil-wnc-navy-half-marathon-2026",
   "name": "IndianOil WNC Navy Half Marathon 2026",
   "city": "Mumbai",
-  "state": "",
-  "zone": "",
+  "state": "Maharashtra",
+  "zone": "West",
   "sport": "run",
   "dateText": "21 Nov 2026",
   "month": "2026-11",
   "scope": "india",
-  "distances": [],
+  "distances": [
+   "5K",
+   "10K",
+   "Half"
+  ],
   "url": "https://www.endorfin.run/running-events/indianoilwncnavyhalfmarathon2026-35263",
   "certification": "",
-  "note": "Listed on Endorfin; details per the event page.",
+  "note": "Listed on the Geeks on Feet race calendar; AIMS flag shown there.",
   "lastChecked": "Checked 12 Nov 2026 on endorfin.run",
   "source": "endorfin.run",
   "sources": [
-   "endorfin.run"
-  ]
+   "endorfin.run",
+   "geeksonfeet.com/races"
+  ],
+  "ctaLabel": "Official race site"
  },
  {
   "id": "end-halloween-spooky-run-2026-run-if-you-dare",
@@ -7513,6 +7520,30 @@
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: CANNDID MEEDIA LOGIKKS PRIVATE LIMITED).",
   "lastChecked": "Checked 20 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-prayagraj_half_marathon_2027__6th_edition_28933",
+  "name": "Prayagraj Half Marathon 2027 - 6th Edition",
+  "city": "Arail",
+  "state": "Uttar Pradesh",
+  "zone": "North",
+  "dateText": "17 Apr 2027",
+  "month": "2027-04",
+  "scope": "india",
+  "distances": [
+   "2K",
+   "5K",
+   "10K",
+   "Half"
+  ],
+  "url": "https://indiarunning.com/event/prayagraj_half_marathon_2027__6th_edition_28933",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Thrill Zone).",
+  "lastChecked": "Checked 21 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
