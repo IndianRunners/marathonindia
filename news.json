@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-20T15:33:45.318Z",
+ "fetchedAt": "2026-11-21T03:16:41.998Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
   {
@@ -39,6 +39,13 @@
   }
  ],
  "global": [
+  {
+   "title": "She Just Qualified for the Olympic Marathon Trials—At Age 48",
+   "url": "https://www.runnersworld.com/news/a74491346/roberta-groner-olympic-marathon-trials-nyc/",
+   "date": "2026-11-20",
+   "published": "2026-11-20T20:48:23.000Z",
+   "source": "Runner's World"
+  },
   {
    "title": "U.S. Women Could Be Upgraded to World Half Marathon Gold After Kenyan Runner’s EPO Ban",
    "url": "https://www.runnersworld.com/news/a74481360/world-half-marathon-american-women-upgraded/",
@@ -114,20 +121,6 @@
    "url": "https://www.runnersworld.com/training/a74415330/half-marathon-workouts-beginners/",
    "date": "2026-11-14",
    "published": "2026-11-14T13:00:00.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "A Runner Went Viral for High-Fiving Ariana Grande at the NYC Marathon. Now He’s Banned for Using a Fake Bib.",
-   "url": "https://www.runnersworld.com/news/a74414250/nyc-marathon-fake-bib-ban/",
-   "date": "2026-11-13",
-   "published": "2026-11-13T14:43:48.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "‘At 60, I Went From Zero Running Experience to Finishing the NYC Marathon Within a Year. These 5 Strategies Got Me to the Finish.’",
-   "url": "https://www.runnersworld.com/training/a74403666/first-marathon-at-60/",
-   "date": "2026-11-12",
-   "published": "2026-11-12T19:32:22.000Z",
    "source": "Runner's World"
   },
   {
