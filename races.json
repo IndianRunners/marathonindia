@@ -122,7 +122,7 @@
   ],
   "url": "https://registration.eventforce.ai/event/45/lokmat-mahamarathon-season-10-pune",
   "certification": "WA course cert: \"Pune Maha\" half, 10K and 5K to 2030 (route tbc)",
-  "lastChecked": "Fees re-checked 21 Nov 2026 on the registration page",
+  "lastChecked": "Fees re-checked 22 Nov 2026 on the registration page",
   "note": "Coupon code AK1 for Pune City runners, valid on the 10K and 21K only. Activated 6 October 2026. No expiry or usage limit stated. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
@@ -694,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": "Race listing on PuneRunners"
+  "ctaLabel": ""
  },
  {
   "id": "run-bhopal-run",
@@ -1218,7 +1218,8 @@
   "source": "aims-worldrunning.org/directory.html",
   "sources": [
    "aims-worldrunning.org/directory.html",
-   "geeksonfeet.com/races"
+   "geeksonfeet.com/races",
+   "endorfin.run"
   ],
   "ctaLabel": "Official race site"
  },
@@ -1305,11 +1306,12 @@
   ],
   "url": "https://indiarunning.com/event/mussoorieultra2ndedition-19483",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Pikusports Entertainment Private Limited).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -2143,11 +2145,12 @@
   ],
   "url": "https://indiarunning.com/event/sikkim_manipal_university_sikkim_soldierathon_30_gangtok_sunday_29th_november_2026_54762",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Fitistan).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -2167,11 +2170,12 @@
   ],
   "url": "https://indiarunning.com/event/the_guwahati_marathon_26840",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Paper Mache Pvt Ltd).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -3732,7 +3736,8 @@
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -6985,7 +6990,8 @@
   "lastChecked": "Checked 17 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -7466,7 +7472,8 @@
   "distances": [
    "2.5K",
    "5K",
-   "10K"
+   "10K",
+   "Community ride"
   ],
   "url": "https://indiarunning.com/event/lake_run_and_coffee_rave__hsr_28436",
   "certification": "",
@@ -7474,7 +7481,8 @@
   "lastChecked": "Checked 20 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -7547,6 +7555,496 @@
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
+  ]
+ },
+ {
+  "id": "end-miles-for-change",
+  "name": "Miles for change",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/miles_for_change_30938",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-bidar-half-marathon-2-0",
+  "name": "Bidar Half Marathon 2.0",
+  "city": "Bidar",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/BHM_2026",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-sbi-green-marathon-s7-bhubneshwar",
+  "name": "SBI Green Marathon S7 Bhubneshwar",
+  "city": "",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/ad1702a7-31ae-455d-a1cf-d23c2bdce7ed",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-navi-mumbai-jal-suraksha-half-marathon-2026",
+  "name": "NAVI MUMBAI JAL SURAKSHA HALF MARATHON 2026",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/navi_mumbai_jal_suraksha_half_marathon_2026_47417",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-capital-small-finance-bank-one-race-jalandhar-half-marathon-2026",
+  "name": "CAPITAL SMALL FINANCE BANK ONE RACE JALANDHAR HALF MARATHON 2026",
+  "city": "",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/99082dcf-2d87-4f67-95ce-215b75f8dbb4",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-the-forest-trail-run-2026",
+  "name": "The Forest Trail Run 2026",
+  "city": "Hyderabad",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/FTR2026",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-run-for-child-health-2026",
+  "name": "Run for Child Health 2026",
+  "city": "Hyderabad",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/RFCH26",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-joyathon-2026",
+  "name": "JOYATHON 2026",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/joyathon_2026_33704",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-delhi-neon-run",
+  "name": "DELHI NEON RUN",
+  "city": "Delhi/NCR",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "29 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/delhi_neon_run_30225",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-roadkin-pals-portions-sunday-morning-special",
+  "name": "Roadkin × Pals & Portions Sunday Morning Special",
+  "city": "Guwahati",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/roadkin/events/d857c1c1-a99c-44f5-902b-33125d218897",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-sisters-and-misters-community-run",
+  "name": "Sisters and Misters Community Run",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "Community ride"
+  ],
+  "url": "https://www.endorfin.run/clubs/sistersinsweat-in/events/a254d7ed-cd61-42ac-8b34-f9da58c7b751",
+  "certification": "",
+  "note": "Community ride, not a timed race; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-after-dark-tour-women-s-community-run",
+  "name": "After Dark Tour Women's Community Run",
+  "city": "Thane",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "Community ride"
+  ],
+  "url": "https://www.endorfin.run/clubs/therunclubthane/events/e8616b23-b109-48e7-b047-9630502e7f6a",
+  "certification": "",
+  "note": "Community ride, not a timed race; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-run-now-sip-later-connaught-place-takeover-5k",
+  "name": "Run Now, Sip Later: Connaught Place Takeover 5K",
+  "city": "Ghaziabad",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/brewrun-club/events/6bee896d-773b-452d-83f1-6f3cc15cc76b",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-sunday-run-28-0",
+  "name": "Sunday Run 28.0",
+  "city": "Surat",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/hydra-run-club/events/8e5d9d73-ab45-4c59-a0d4-389b7d64ff0c",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-run-rave-dogs-run",
+  "name": "Run’Rave Dogs Run",
+  "city": "Hyderabad",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "Community ride"
+  ],
+  "url": "https://www.endorfin.run/clubs/runnrave-hyd/events/c66dada5-6a40-4ee6-a314-d213056db123",
+  "certification": "",
+  "note": "Community ride, not a timed race; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-awaken-64-0-community-run",
+  "name": "Awaken 64.0 Community Run",
+  "city": "Surat",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "Community ride"
+  ],
+  "url": "https://www.endorfin.run/clubs/awaken-circle/events/4d18c28c-f357-415c-ba4a-8e361db0a5cc",
+  "certification": "",
+  "note": "Community ride, not a timed race; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-wildcard-community-run-board-games",
+  "name": "Wildcard Community Run & Board Games",
+  "city": "Nagpur",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "Community ride"
+  ],
+  "url": "https://www.endorfin.run/clubs/raftaarrunclubnagpur/events/b487578c-8c3c-4fa6-b8c9-2267578b653c",
+  "certification": "",
+  "note": "Community ride, not a timed race; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-10k-21k-sunday-long-run",
+  "name": "10K & 21K Sunday Long Run",
+  "city": "Haridwar",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/runclubharidwar/events/ba35f006-b798-4c5f-b831-e1c2645c6d9a",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-mumbai-mega-bootcamp",
+  "name": "Mumbai Mega Bootcamp",
+  "city": "Thane",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/rukna-manahai/events/4513ba9b-7d05-4e7b-908f-8be8ee32d7b1",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-gokulam-stair-circuit-season-1",
+  "name": "Gokulam Stair Circuit – Season 1",
+  "city": "Calicut",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "22 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/brew-burn/events/df666b30-1128-4e52-aedf-f68a57123dee",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-sweat-fest-mumbai",
+  "name": "Sweat Fest Mumbai",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sistersinsweat-in/events/bd997025-042a-428a-b1aa-db1dedd49c1e",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-night-with-champions-get-together",
+  "name": "Night with Champions Get Together",
+  "city": "Delhi(NCR)",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/rewari-runners-fleet/events/2a2602b0-df1c-4acc-b519-19ca0838f4b9",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-stayfree-goflorun-2026",
+  "name": "Stayfree GoFloRun 2026",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/goflorun/events/1ab62754-350a-42a9-93c6-d4a19930669b",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-marvel-s-unrivaled-run",
+  "name": "Marvel's Unrivaled Run",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/marathonrunnersclub/events/a0ea4eca-f21b-41a7-a64d-59a27e4c52d6",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 22 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
   ]
  }
 ]
