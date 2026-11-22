@@ -610,13 +610,12 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K",
-   "Ultra"
+   "50K"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page.",
+  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -694,7 +693,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -2369,7 +2368,8 @@
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com",
-   "geeksonfeet.com/races"
+   "geeksonfeet.com/races",
+   "endorfin.run"
   ],
   "ctaLabel": "Official race site"
  },
@@ -8045,6 +8045,75 @@
   "source": "endorfin.run",
   "sources": [
    "endorfin.run"
+  ]
+ },
+ {
+  "id": "ir-azurapstnmarathon20276theditionrunforahealthiertomorrow-46068",
+  "name": "Azuraps TN Marathon 2027 - 6th Edition - Run for a Healthier Tomorrow",
+  "city": "Sai Ram Colony",
+  "state": "Tamil Nadu",
+  "zone": "South",
+  "dateText": "27 Feb 2027",
+  "month": "2027-02",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "5K",
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/azurapstnmarathon20276theditionrunforahealthiertomorrow-46068",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: ASP Engineering Consultancy).",
+  "lastChecked": "Checked 22 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-punjab_half_marathon_2027__17th_edition_34726",
+  "name": "PUNJAB HALF MARATHON 2027 - 17TH EDITION",
+  "city": "Sector 1",
+  "state": "Chandigarh",
+  "zone": "North",
+  "dateText": "28 Feb 2027",
+  "month": "2027-02",
+  "scope": "india",
+  "distances": [
+   "5K",
+   "10K",
+   "Half"
+  ],
+  "url": "https://indiarunning.com/event/punjab_half_marathon_2027__17th_edition_34726",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Thrill Zone).",
+  "lastChecked": "Checked 22 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-dwarka_international_half_marathon_49016",
+  "name": "DWARKA INTERNATIONAL HALF MARATHON",
+  "city": "Dwarka",
+  "state": "Delhi",
+  "zone": "North",
+  "dateText": "1 May 2027",
+  "month": "2027-05",
+  "scope": "india",
+  "distances": [
+   "5K",
+   "10K",
+   "21K"
+  ],
+  "url": "https://indiarunning.com/event/dwarka_international_half_marathon_49016",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Marathon Tak).",
+  "lastChecked": "Checked 22 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
   ]
  }
 ]
