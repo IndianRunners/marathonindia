@@ -610,13 +610,12 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K",
-   "Ultra"
+   "50K"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page.",
+  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -694,7 +693,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -1279,7 +1278,7 @@
   ],
   "url": "https://indiarunning.com/event/stayfree_goflorun_29082",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Nova Saki Media Private Limited).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -1495,7 +1494,7 @@
   ],
   "url": "https://indiarunning.com/event/indiannavyhalfmarathon2027-21281",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Indian Navy).",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -8261,6 +8260,247 @@
   "url": "https://indiarunning.com/event/kargil_vijay_diwas_international_half_marathon_6th_edition_81624",
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Marathon Tak).",
+  "lastChecked": "Checked 23 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "end-rbr-junior-all-is-well-run-happy-grow-strong",
+  "name": "RBR Junior – All Is Well Run Happy  Grow Strong",
+  "city": "Bhopal",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "5 Dec 2026",
+  "month": "2026-12",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/running-events/RBR_Junior",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-ice-pool-party-with-reebok",
+  "name": "Ice Pool Party with Reebok",
+  "city": "Thane",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "23 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/rukna-manahai/events/73b099d2-c9ad-46fc-a361-296c0f7b38c5",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-brev-x-nike-after-dark-tour-track-challenge",
+  "name": "Brevé x Nike After Dark Tour Track Challenge",
+  "city": "Mumbai",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "24 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/runninglatebybreve/events/0cca7e64-cb28-4a17-8681-23aa8e6a5fea",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-run-for-ideas",
+  "name": "Run For Ideas",
+  "city": "Surat",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/frcsurat/events/66a59cf8-1bbd-4761-aa7d-74c7f5d6729e",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-jbg-marathon-shakeout-run",
+  "name": "JBG Marathon Shakeout Run",
+  "city": "Kolkata",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/thecalcuttarunclub/events/1781012a-2924-49ac-8e6c-93334d7543f3",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-run-and-punch",
+  "name": "Run and Punch",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/pacexrunclubbangalore/events/99ce6944-e52b-4ede-bd2d-1e3bd3aeda8d",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-sis-x-ykbi-reformer-pilates",
+  "name": "SIS x YKBI Reformer Pilates",
+  "city": "Bengaluru",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sistersinsweat-in/events/e267b0da-e629-421d-858b-4966583f1ab7",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-mussoorie-shakeout-run",
+  "name": "Mussoorie Shakeout Run",
+  "city": "Haridwar",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/runclubharidwar/events/192f78d1-f6f9-41b1-a8a5-949b8eaf6be8",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "ir-seniorcitizenwellnessprogramnavimumbai27thnovember2026-19350",
+  "name": "Senior citizen wellness program - Navi Mumbai- 27th November 2026",
+  "city": "Jewel Of Navi Mumbai, Sector 26",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "27 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://indiarunning.com/event/seniorcitizenwellnessprogramnavimumbai27thnovember2026-19350",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "lastChecked": "Checked 23 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-wesnessrun2mingleblr-24866",
+  "name": "WESNESS RUN2MINGLE BLR",
+  "city": "Sector 4",
+  "state": "Karnataka",
+  "zone": "South",
+  "dateText": "28 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "3K"
+  ],
+  "url": "https://indiarunning.com/event/wesnessrun2mingleblr-24866",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "lastChecked": "Checked 23 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-kleinetics_kommando_challenge_s6_40675",
+  "name": "KLEINETICS KOMMANDO CHALLENGE S6",
+  "city": "Matunga East",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "6 Dec 2026",
+  "month": "2026-12",
+  "scope": "india",
+  "distances": [],
+  "url": "https://indiarunning.com/event/kleinetics_kommando_challenge_s6_40675",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Kleinetics DataSports PVT LTD).",
+  "lastChecked": "Checked 23 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-kanyakumaricoastal_run_2027_36362",
+  "name": "KANYAKUMARICOASTAL RUN 2027",
+  "city": "Kanniyakumari",
+  "state": "Tamil Nadu",
+  "zone": "South",
+  "dateText": "2 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "5K",
+   "10K"
+  ],
+  "url": "https://www.kanyakumaricoastalrun.com/supporter-kit",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Gensysis technologies).",
   "lastChecked": "Checked 23 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
