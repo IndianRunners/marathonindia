@@ -122,7 +122,7 @@
   ],
   "url": "https://registration.eventforce.ai/event/45/lokmat-mahamarathon-season-10-pune",
   "certification": "WA course cert: \"Pune Maha\" half, 10K and 5K to 2030 (route tbc)",
-  "lastChecked": "Fees re-checked 22 Nov 2026 on the registration page",
+  "lastChecked": "Fees re-checked 23 Nov 2026 on the registration page",
   "note": "Coupon code AK1 for Pune City runners, valid on the 10K and 21K only. Activated 6 October 2026. No expiry or usage limit stated. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
@@ -610,12 +610,13 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K"
+   "50K",
+   "Ultra"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
+  "note": "The Hell Race organiser listing; venue per the race page.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -693,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": "Race listing on PuneRunners"
+  "ctaLabel": ""
  },
  {
   "id": "run-bhopal-run",
@@ -6582,8 +6583,8 @@
   "id": "end-winter-champ-run-delhi-2026",
   "name": "Winter champ run- delhi 2026",
   "city": "Delhi/NCR",
-  "state": "",
-  "zone": "",
+  "state": "Delhi",
+  "zone": "North",
   "sport": "run",
   "dateText": "28 Nov 2026",
   "month": "2026-11",
@@ -7457,7 +7458,8 @@
   "lastChecked": "Checked 20 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
-   "indiarunning.com"
+   "indiarunning.com",
+   "endorfin.run"
   ]
  },
  {
@@ -7640,7 +7642,7 @@
  {
   "id": "end-capital-small-finance-bank-one-race-jalandhar-half-marathon-2026",
   "name": "CAPITAL SMALL FINANCE BANK ONE RACE JALANDHAR HALF MARATHON 2026",
-  "city": "",
+  "city": "Guru Gobind Singh Stadium",
   "state": "",
   "zone": "",
   "sport": "run",
@@ -8105,12 +8107,161 @@
   "distances": [
    "5K",
    "10K",
-   "21K"
+   "21K",
+   "21.1K"
   ],
   "url": "https://indiarunning.com/event/dwarka_international_half_marathon_49016",
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Marathon Tak).",
   "lastChecked": "Checked 22 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "end-varkala-surf-week",
+  "name": "Varkala Surf Week",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "zone": "North",
+  "sport": "run",
+  "dateText": "23 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/delhiruncollective/events/dccb2566-b1da-4db5-a3e3-ca5b42f5a73a",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-varkala-surf-getaway",
+  "name": "Varkala Surf Getaway",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "zone": "North",
+  "sport": "run",
+  "dateText": "23 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/delhiruncollective/events/6a2e6a4c-05d8-45a2-b8bf-d0d69cb62c23",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-hansali-run-2026",
+  "name": "Hansali Run 2026",
+  "city": "Mohali",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "24 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/oyerunner/events/1526df50-46dc-44e8-906f-62c97479d53c",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-hansali-community-run",
+  "name": "Hansali Community Run",
+  "city": "Mohali",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "24 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [
+   "Community ride"
+  ],
+  "url": "https://www.endorfin.run/clubs/oyerunner/events/20cde5da-5134-4623-be98-3702ebc25bbb",
+  "certification": "",
+  "note": "Community ride, not a timed race; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "end-fit-retreat-jibhi",
+  "name": "Fit Retreat Jibhi",
+  "city": "Ghaziabad",
+  "state": "",
+  "zone": "",
+  "sport": "run",
+  "dateText": "25 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://www.endorfin.run/clubs/sogaruns/events/b7a629b4-6a6f-4eca-88f9-7a3146637e7a",
+  "certification": "",
+  "note": "Listed on Endorfin; details per the event page.",
+  "lastChecked": "Checked 23 Nov 2026 on endorfin.run",
+  "source": "endorfin.run",
+  "sources": [
+   "endorfin.run"
+  ]
+ },
+ {
+  "id": "ir-republic_day_run_2026_8246",
+  "name": "REPUBLIC DAY RUN 2027",
+  "city": "SRM Nagar",
+  "state": "Tamil Nadu",
+  "zone": "South",
+  "dateText": "23 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "5K",
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/republic_day_run_2026_8246",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Time To Result Solutions).",
+  "lastChecked": "Checked 23 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-kargil_vijay_diwas_international_half_marathon_6th_edition_81624",
+  "name": "Kargil Vijay Diwas International Half Marathon -6th Edition-",
+  "city": "Dwarka",
+  "state": "Delhi",
+  "zone": "North",
+  "dateText": "24 Jul 2027",
+  "month": "2027-07",
+  "scope": "india",
+  "distances": [
+   "5K",
+   "10K",
+   "21.1K"
+  ],
+  "url": "https://indiarunning.com/event/kargil_vijay_diwas_international_half_marathon_6th_edition_81624",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Marathon Tak).",
+  "lastChecked": "Checked 23 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
