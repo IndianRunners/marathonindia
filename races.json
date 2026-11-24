@@ -610,13 +610,12 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K",
-   "Ultra"
+   "50K"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page.",
+  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -694,7 +693,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -1495,7 +1494,7 @@
   ],
   "url": "https://indiarunning.com/event/indiannavyhalfmarathon2027-21281",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "note": "Listed on indiarunning.com (organiser: Indian Navy).",
   "lastChecked": "Checked 11 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -6232,7 +6231,7 @@
   ],
   "url": "https://indiarunning.com/event/asdnasd_40311",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "note": "Listed on indiarunning.com (organiser: AGI).",
   "lastChecked": "Checked 14 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -6827,7 +6826,7 @@
   ],
   "url": "https://indiarunning.com/event/mahabaleshwar_eco_trail_2026_45023",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: pinkholic india foundation).",
+  "note": "Listed on indiarunning.com (organiser: Pinkholic India Foundation).",
   "lastChecked": "Checked 16 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -7501,7 +7500,8 @@
    "5K",
    "10K",
    "21.1K",
-   "42K"
+   "42K",
+   "21K"
   ],
   "url": "https://indiarunning.com/event/pcmc_grand_marathon_43021",
   "certification": "",
@@ -8505,6 +8505,74 @@
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Gensysis technologies).",
   "lastChecked": "Checked 23 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-seniorcitizenwellnessprogrammumbai5thdecember2026-43569",
+  "name": "Senior citizen wellness program - Mumbai- 5th December 2026",
+  "city": "Mount Mary",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "5 Dec 2026",
+  "month": "2026-12",
+  "scope": "india",
+  "distances": [],
+  "url": "https://indiarunning.com/event/seniorcitizenwellnessprogrammumbai5thdecember2026-43569",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "lastChecked": "Checked 24 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-run2cure_ghatkopar_marathon_2027_49516",
+  "name": "Run2cure Ghatkopar Marathon 2027",
+  "city": "Pant Nagar",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "31 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "1K",
+   "3K",
+   "5K",
+   "10K",
+   "21K"
+  ],
+  "url": "https://indiarunning.com/event/run2cure_ghatkopar_marathon_2027_49516",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Jvm Charitable Foundation).",
+  "lastChecked": "Checked 24 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-bhujalvayuhalfmarathon4thedition-57567",
+  "name": "Bhujalvayu Half Marathon 4th Edition",
+  "city": "Sector 19",
+  "state": "Delhi",
+  "zone": "North",
+  "dateText": "10 Apr 2027",
+  "month": "2027-04",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "5K",
+   "10K",
+   "21.1K"
+  ],
+  "url": "https://indiarunning.com/event/bhujalvayuhalfmarathon4thedition-57567",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Bhujalvayu).",
+  "lastChecked": "Checked 24 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"

@@ -1,7 +1,14 @@
 {
- "fetchedAt": "2026-11-24T06:07:27.466Z",
+ "fetchedAt": "2026-11-24T17:52:53.522Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
+  {
+   "title": "Zoning in on ‘Zone Compression’",
+   "url": "https://www.geeksonfeet.com/posts/finding-next-percent-zone-compression/",
+   "date": "2026-11-24",
+   "published": "2026-11-24T00:00:00.000Z",
+   "source": "Geeks on Feet"
+  },
   {
    "title": "Indian sports wrap, November 21: Tata Steel World 25K Kolkata set for 11th edition on December 20",
    "url": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-updates-results-today-november-21-saturday-headlines-india/article71727861.ece",
@@ -18,6 +25,27 @@
   }
  ],
  "global": [
+  {
+   "title": "Williams and Wharton win Kendal trail 10km",
+   "url": "https://athleticsweekly.com/results/multi-terrain/williams-and-wharton-win-kendal-trail-10km-1040014171/",
+   "date": "2026-11-24",
+   "published": "2026-11-24T12:28:52.000Z",
+   "source": "Athletics Weekly"
+  },
+  {
+   "title": "Liverpool mud awaits as Belgrade places go on the line",
+   "url": "https://athleticsweekly.com/news/meetings/liverpool-mud-awaits-as-belgrade-places-go-on-the-line-1040014170/",
+   "date": "2026-11-24",
+   "published": "2026-11-24T15:42:12.000Z",
+   "source": "Athletics Weekly"
+  },
+  {
+   "title": "Doha Marathon by Ooredoo earns World Athletics Platinum Label",
+   "url": "https://athleticsweekly.com/aw-promotion/doha-marathon-by-ooredoo-earns-world-athletics-platinum-label-1040014175/",
+   "date": "2026-11-24",
+   "published": "2026-11-24T16:41:34.000Z",
+   "source": "Athletics Weekly"
+  },
   {
    "title": "This Is the Minimum Amount of Time You Need After a Half Marathon to Run Your Next Race",
    "url": "https://www.runnersworld.com/training/a74482188/half-marathon-recovery-next-race/",
@@ -86,13 +114,6 @@
    "url": "https://www.runnersworld.com/news/a74441234/juli-windsor-marathon-record/",
    "date": "2026-11-17",
    "published": "2026-11-17T20:56:23.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "Editor-Favorite Running Shoes Are Marked Down on Amazon for Black Friday—Save on Brooks, Asics, Saucony, and More",
-   "url": "https://www.runnersworld.com/gear/g73747156/best-amazon-running-shoe-deals/",
-   "date": "2026-11-16",
-   "published": "2026-11-16T16:13:00.000Z",
    "source": "Runner's World"
   },
   {
