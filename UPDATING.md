@@ -23,7 +23,7 @@ Certification evidence (each kept as a distinct claim, never merged):
 Race discovery and fees:
 - punerunners.com/races (existing maintained calendar, Pune-first)
 - Organiser official sites and their registration pages (Townscript, BookMyShow, KonfHub, MeraEvents and similar), fetched respectfully: low frequency, identified fetches, each site's terms honored
-- The Daud India Android dataset (67-race historical snapshot) once re-verified; its former update feed (daudindia-data.kamdis.workers.dev/races.json) is currently down (HTTP 404, Cloudflare error 1042, observed 11 Nov 2026)
+- The Daud India Android dataset (67-race historical snapshot) once re-verified; its former update feed is currently down (HTTP 404, observed 11 Nov 2026)
 
 ## Rules carried from the PuneRunners calendar
 
