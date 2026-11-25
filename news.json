@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-25T04:55:52.516Z",
+ "fetchedAt": "2026-11-25T17:20:20.427Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
   {
@@ -10,13 +10,6 @@
    "source": "Geeks on Feet"
   },
   {
-   "title": "Indian sports wrap, November 21: Tata Steel World 25K Kolkata set for 11th edition on December 20",
-   "url": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-updates-results-today-november-21-saturday-headlines-india/article71727861.ece",
-   "date": "2026-11-22",
-   "published": "2026-11-22T11:13:20.000Z",
-   "source": "Sportstar (The Hindu)"
-  },
-  {
    "title": "IndianOil WNC Navy Half Marathon 2026 Route Preview",
    "url": "https://www.geeksonfeet.com/posts/indianoil-wnc-navy-half-route-preview-2026/",
    "date": "2026-11-20",
@@ -25,6 +18,27 @@
   }
  ],
  "global": [
+  {
+   "title": "Editor-Favorite Running Shoes Are Marked Down on Amazon for Black Friday—Save on Brooks, Asics, Saucony, and More",
+   "url": "https://www.runnersworld.com/gear/g73747156/best-amazon-running-shoe-deals/",
+   "date": "2026-11-25",
+   "published": "2026-11-25T14:07:00.000Z",
+   "source": "Runner's World"
+  },
+  {
+   "title": "Score Gear of the Year Winner Adidas Adizero Evo SL on Sale for Black Friday, Plus Tons More Shoe Deals",
+   "url": "https://www.runnersworld.com/gear/g70222395/best-running-shoe-deals-2026/",
+   "date": "2026-11-25",
+   "published": "2026-11-25T15:50:00.000Z",
+   "source": "Runner's World"
+  },
+  {
+   "title": "‘Just a Guy With a Boat on His Head’: He’s Running 52 Marathons in 52 Weeks—While Carrying a Canoe Every Step",
+   "url": "https://www.runnersworld.com/news/a74524099/canoe-marathon-runner-public-lands/",
+   "date": "2026-11-25",
+   "published": "2026-11-25T17:02:24.000Z",
+   "source": "Runner's World"
+  },
   {
    "title": "Williams and Wharton win Kendal trail 10km",
    "url": "https://athleticsweekly.com/results/multi-terrain/williams-and-wharton-win-kendal-trail-10km-1040014171/",
@@ -79,41 +93,6 @@
    "url": "https://www.runnersworld.com/news/a74481360/world-half-marathon-american-women-upgraded/",
    "date": "2026-11-19",
    "published": "2026-11-19T21:57:36.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "Score Gear of the Year Winner Adidas Adizero Evo SL on Sale for Black Friday, Plus Tons More Shoe Deals",
-   "url": "https://www.runnersworld.com/gear/g70222395/best-running-shoe-deals-2026/",
-   "date": "2026-11-17",
-   "published": "2026-11-17T14:30:00.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "A Runner Took a Midrace Puff of Weed at the NYC Marathon. Now, She’s Disqualified.",
-   "url": "https://www.runnersworld.com/news/a74442266/nyc-marathon-disqualification-weed/",
-   "date": "2026-11-17",
-   "published": "2026-11-17T15:14:58.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "After 3 Marathons Without a Plan, I Finally Followed One. Here’s What Happened in NYC.",
-   "url": "https://www.runnersworld.com/runners-stories/a74440901/marathon-training-plan-lessons/",
-   "date": "2026-11-17",
-   "published": "2026-11-17T18:39:18.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "The 12 Best Carbon Plate Shoes for Setting PRs, Running Your First Marathon, and Crossing the Finish Line Upright",
-   "url": "https://www.runnersworld.com/gear/g44064559/best-carbon-plate-shoes/",
-   "date": "2026-11-17",
-   "published": "2026-11-17T19:15:00.000Z",
-   "source": "Runner's World"
-  },
-  {
-   "title": "‘One of a Million’: She’s 3-Foot-9, Just Ran a 3:42 Marathon, and Is Chasing a Boston Qualifier",
-   "url": "https://www.runnersworld.com/news/a74441234/juli-windsor-marathon-record/",
-   "date": "2026-11-17",
-   "published": "2026-11-17T20:56:23.000Z",
    "source": "Runner's World"
   },
   {

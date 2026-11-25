@@ -694,7 +694,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -8597,6 +8597,89 @@
   "url": "https://indiarunning.com/event/mumbai_unity_marathon__last_marathon_of_2026_73262",
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Sukarma Events).",
+  "lastChecked": "Checked 25 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-prateek_36438",
+  "name": "GOODFELLOWS WALKATHON",
+  "city": "Marine Lines",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "30 Nov 2026",
+  "month": "2026-11",
+  "scope": "india",
+  "distances": [],
+  "url": "https://indiarunning.com/event/prateek_36438",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Hydroid).",
+  "lastChecked": "Checked 25 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-wesnessrun2quizmumbai2026-41467",
+  "name": "Wesness Run2Quiz Mumbai 2026",
+  "city": "Caffè Nero, Trent House, Bandra Kurla Complex",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "6 Dec 2026",
+  "month": "2026-12",
+  "scope": "india",
+  "distances": [
+   "3K"
+  ],
+  "url": "https://indiarunning.com/event/wesnessrun2quizmumbai2026-41467",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "lastChecked": "Checked 25 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-national_youth_day_marathon_2027_50756",
+  "name": "National Youth Day Marathon 2027",
+  "city": "Neelam Basha Dargapuram",
+  "state": "Tamil Nadu",
+  "zone": "South",
+  "dateText": "10 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "5K",
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/national_youth_day_marathon_2027_50756",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Vivekananda Youth Forum).",
+  "lastChecked": "Checked 25 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-neat_everyday_10km_amdavad_run_19402",
+  "name": "Neat Everyday 10KM Amdavad Run",
+  "city": "AMC Ground · Next To Urban Chowk, Rajpath Rangoli Road, Ambli, Ahmedabad",
+  "state": "Gujarat",
+  "zone": "West",
+  "dateText": "31 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "10K"
+  ],
+  "url": "https://events.neateveryday.com/events/ahmedabad-10km-run-2027",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Neat Everyday).",
   "lastChecked": "Checked 25 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
