@@ -610,13 +610,12 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K",
-   "Ultra"
+   "50K"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page.",
+  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -694,7 +693,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -8681,6 +8680,96 @@
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Neat Everyday).",
   "lastChecked": "Checked 25 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-chhatrapatisambhajinagar10krun-23325",
+  "name": "Chhatrapati Sambhaji Nagar 10k Run",
+  "city": "Garkheda",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "23 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/chhatrapatisambhajinagar10krun-23325",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "lastChecked": "Checked 26 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-athnavvirtualrun2026-32430",
+  "name": "ATHNAV VIRTUAL RUN - 2026, International Anti-Corruption Day",
+  "city": "Anywhere",
+  "state": "",
+  "zone": "",
+  "dateText": "9 Dec 2026",
+  "month": "2026-12",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "5K",
+   "10K",
+   "21K"
+  ],
+  "url": "https://indiarunning.com/event/athnavvirtualrun2026-32430",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: ATHNAV INTEGRATED SOLUTIONS PRIVATE LIMITED).",
+  "lastChecked": "Checked 26 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-sakalnagpur10krun-22885",
+  "name": "Nagpur 10K Run",
+  "city": "Nagpur",
+  "state": "Maharashtra",
+  "zone": "West",
+  "dateText": "10 Jan 2027",
+  "month": "2027-01",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "10K"
+  ],
+  "url": "https://indiarunning.com/event/sakalnagpur10krun-22885",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Fitpage).",
+  "lastChecked": "Checked 26 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-run_to_save_lives_20_on_world_cancer_day_39792",
+  "name": "Run to Save Lives 2.0 on World Cancer Day",
+  "city": "Greater Noida",
+  "state": "Uttar Pradesh",
+  "zone": "North",
+  "dateText": "6 Feb 2027",
+  "month": "2027-02",
+  "scope": "india",
+  "distances": [
+   "3K",
+   "5K"
+  ],
+  "url": "https://indiarunning.com/event/run_to_save_lives_20_on_world_cancer_day_39792",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Astitva Foundation).",
+  "lastChecked": "Checked 26 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
