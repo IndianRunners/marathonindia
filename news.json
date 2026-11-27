@@ -1,7 +1,14 @@
 {
- "fetchedAt": "2026-11-27T04:20:29.144Z",
+ "fetchedAt": "2026-11-27T16:45:51.973Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
+  {
+   "title": "World 25K Kolkata 2026: Lasoi, Azimeraw headline a strong field",
+   "url": "https://sportstar.thehindu.com/athletics/lasoi-azimeraw-major-names-world-25k-kolkata-2026-prize-money-details/article71750485.ece",
+   "date": "2026-11-27",
+   "published": "2026-11-27T11:22:32.000Z",
+   "source": "Sportstar (The Hindu)"
+  },
   {
    "title": "Puri to host India's first coastal road+sand marathon in December",
    "url": "https://thebridge.in/marathon/puri-to-host-indias-first-coastal-roadsand-marathon-in-december-58489",
@@ -19,25 +26,25 @@
  ],
  "global": [
   {
-   "title": "Sam Atkin lands Manchester Road Race win on debut",
-   "url": "https://athleticsweekly.com/news/sam-atkin-lands-manchester-road-race-win-on-debut-1040014198/",
-   "date": "2026-11-26",
-   "published": "2026-11-26T20:49:31.000Z",
-   "source": "Athletics Weekly"
-  },
-  {
    "title": "Editor-Favorite Running Shoes Are Marked Down on Amazon for Black Friday—Save on Brooks, Asics, Saucony, and More",
    "url": "https://www.runnersworld.com/gear/g73747156/best-amazon-running-shoe-deals/",
-   "date": "2026-11-25",
-   "published": "2026-11-25T14:07:00.000Z",
+   "date": "2026-11-27",
+   "published": "2026-11-27T15:49:00.000Z",
    "source": "Runner's World"
   },
   {
    "title": "Score Gear of the Year Winner Adidas Adizero Evo SL on Sale for Black Friday, Plus Tons More Shoe Deals",
    "url": "https://www.runnersworld.com/gear/g70222395/best-running-shoe-deals-2026/",
-   "date": "2026-11-25",
-   "published": "2026-11-25T15:50:00.000Z",
+   "date": "2026-11-27",
+   "published": "2026-11-27T16:29:00.000Z",
    "source": "Runner's World"
+  },
+  {
+   "title": "Sam Atkin lands Manchester Road Race win on debut",
+   "url": "https://athleticsweekly.com/news/sam-atkin-lands-manchester-road-race-win-on-debut-1040014198/",
+   "date": "2026-11-26",
+   "published": "2026-11-26T20:49:31.000Z",
+   "source": "Athletics Weekly"
   },
   {
    "title": "‘Just a Guy With a Boat on His Head’: He’s Running 52 Marathons in 52 Weeks—While Carrying a Canoe Every Step",
