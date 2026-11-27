@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-26T17:00:08.346Z",
+ "fetchedAt": "2026-11-27T04:20:29.144Z",
  "note": "India items are running and triathlon coverage from Indian media, published within the last 7 days; global items are filtered to marathon and road-running news. Titles, links and dates are the publishers own.",
  "india": [
   {
@@ -15,16 +15,16 @@
    "date": "2026-11-24",
    "published": "2026-11-24T00:00:00.000Z",
    "source": "Geeks on Feet"
-  },
-  {
-   "title": "IndianOil WNC Navy Half Marathon 2026 Route Preview",
-   "url": "https://www.geeksonfeet.com/posts/indianoil-wnc-navy-half-route-preview-2026/",
-   "date": "2026-11-20",
-   "published": "2026-11-20T00:00:00.000Z",
-   "source": "Geeks on Feet"
   }
  ],
  "global": [
+  {
+   "title": "Sam Atkin lands Manchester Road Race win on debut",
+   "url": "https://athleticsweekly.com/news/sam-atkin-lands-manchester-road-race-win-on-debut-1040014198/",
+   "date": "2026-11-26",
+   "published": "2026-11-26T20:49:31.000Z",
+   "source": "Athletics Weekly"
+  },
   {
    "title": "Editor-Favorite Running Shoes Are Marked Down on Amazon for Black Friday—Save on Brooks, Asics, Saucony, and More",
    "url": "https://www.runnersworld.com/gear/g73747156/best-amazon-running-shoe-deals/",
@@ -73,13 +73,6 @@
    "date": "2026-11-23",
    "published": "2026-11-23T18:17:51.000Z",
    "source": "Runner's World"
-  },
-  {
-   "title": "Griffiths wins Wilmslow Festive 10km in 29:45",
-   "url": "https://athleticsweekly.com/results/griffiths-wins-wilmslow-festive-10km-in-2945-1040014163/",
-   "date": "2026-11-23",
-   "published": "2026-11-23T14:51:16.000Z",
-   "source": "Athletics Weekly"
   },
   {
    "title": "Here Are the Results from the 2026 Philadelphia Marathon",
