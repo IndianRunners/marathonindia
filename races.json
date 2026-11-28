@@ -610,13 +610,12 @@
   "month": "2027-02",
   "scope": "india ultra",
   "distances": [
-   "50K",
-   "Ultra"
+   "50K"
   ],
   "url": "https://itra.run/Races/RaceDetails/Red.Stone.Ultra.50km/2026/115734",
   "certification": "Last verified: 2026 edition, ITRA listed",
   "lastChecked": "Last checked 6 Oct 2026",
-  "note": "The Hell Race organiser listing; venue per the race page.",
+  "note": "The Hell Race organiser listing; venue per the race page. Distance list differs between manual entry and punerunners - verify.",
   "hasDiscount": false,
   "source": "punerunners.com/races",
   "zone": "North",
@@ -694,7 +693,7 @@
    "punerunners.com/races",
    "procam.in"
   ],
-  "ctaLabel": ""
+  "ctaLabel": "Race listing on PuneRunners"
  },
  {
   "id": "run-bhopal-run",
@@ -6988,7 +6987,7 @@
   ],
   "url": "https://indiarunning.com/event/the_next_big__2k_family_walk_14566",
   "certification": "",
-  "note": "Listed on indiarunning.com (organiser: SPORTENA ACADEMY).",
+  "note": "Listed on Endorfin; details per the event page.",
   "lastChecked": "Checked 17 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
@@ -8878,6 +8877,30 @@
   "certification": "",
   "note": "Listed on indiarunning.com (organiser: Sportz Zone Events).",
   "lastChecked": "Checked 27 Nov 2026 on indiarunning.com",
+  "source": "indiarunning.com",
+  "sources": [
+   "indiarunning.com"
+  ]
+ },
+ {
+  "id": "ir-dehradun_half_marathon_2027__14th_edition_46381",
+  "name": "Dehradun Half Marathon 2027 - 14th Edition",
+  "city": "Raipur",
+  "state": "Uttarakhand",
+  "zone": "North",
+  "dateText": "26 Sep 2027",
+  "month": "2027-09",
+  "scope": "india",
+  "distances": [
+   "2K",
+   "5K",
+   "10K",
+   "Half"
+  ],
+  "url": "https://indiarunning.com/event/dehradun_half_marathon_2027__14th_edition_46381",
+  "certification": "",
+  "note": "Listed on indiarunning.com (organiser: Thrill Zone).",
+  "lastChecked": "Checked 28 Nov 2026 on indiarunning.com",
   "source": "indiarunning.com",
   "sources": [
    "indiarunning.com"
